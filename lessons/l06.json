@@ -1,0 +1,2918 @@
+{
+ "id": "l06",
+ "title": "Must, need and joining sentences",
+ "goal": "Say what you have to do and join ideas with but, because, or and and: 'I can't go because I have to eat'.",
+ "steps": [
+  {
+   "type": "teach",
+   "id": "l06-01",
+   "audio": "l06-01",
+   "say": "A new, very useful word: bāyad. It means 'must' or 'have to'. Say it out loud: bāyad.",
+   "en": "must / have to",
+   "fa": "باید",
+   "fin": "bāyad",
+   "words": [
+    {
+     "fa": "باید",
+     "fin": "bāyad",
+     "parts": [
+      {
+       "fin": "bāyad",
+       "role": "stem",
+       "gloss": "must / have to"
+      }
+     ]
+    }
+   ],
+   "note": "bāyad never changes, whoever is speaking."
+  },
+  {
+   "type": "teach",
+   "id": "l06-02",
+   "audio": "l06-02",
+   "say": "Now put it in front of a verb you already know. Remember beram, 'to go'? Bāyad beram: literally 'must that-I-go'. Say it.",
+   "en": "I have to go",
+   "fa": "باید برم",
+   "fin": "bāyad beram",
+   "words": [
+    {
+     "fa": "باید",
+     "fin": "bāyad",
+     "parts": [
+      {
+       "fin": "bāyad",
+       "role": "stem",
+       "gloss": "must / have to"
+      }
+     ]
+    },
+    {
+     "fa": "برم",
+     "fin": "beram",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "note": "bāyad + the be- verb: the same slot you used after mikhām."
+  },
+  {
+   "type": "prompt",
+   "id": "l06-03",
+   "en": "How do you say: I have to go?",
+   "fa": "باید برم",
+   "fin": "bāyad beram",
+   "words": [
+    {
+     "fa": "باید",
+     "fin": "bāyad",
+     "parts": [
+      {
+       "fin": "bāyad",
+       "role": "stem",
+       "gloss": "must / have to"
+      }
+     ]
+    },
+    {
+     "fa": "برم",
+     "fin": "beram",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l06-03"
+  },
+  {
+   "type": "teach",
+   "id": "l06-04",
+   "audio": "l06-04",
+   "say": "Now 'come': biyām. Put bāyad in front, and say it out loud.",
+   "en": "I have to come",
+   "fa": "باید بیام",
+   "fin": "bāyad biyām",
+   "words": [
+    {
+     "fa": "باید",
+     "fin": "bāyad",
+     "parts": [
+      {
+       "fin": "bāyad",
+       "role": "stem",
+       "gloss": "must / have to"
+      }
+     ]
+    },
+    {
+     "fa": "بیام",
+     "fin": "biyām",
+     "parts": [
+      {
+       "fin": "bi",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "prompt",
+   "id": "l06-05",
+   "en": "How do you say: I have to come there?",
+   "fa": "باید اونجا بیام",
+   "fin": "bāyad unjā biyām",
+   "words": [
+    {
+     "fa": "باید",
+     "fin": "bāyad",
+     "parts": [
+      {
+       "fin": "bāyad",
+       "role": "stem",
+       "gloss": "must / have to"
+      }
+     ]
+    },
+    {
+     "fa": "اونجا",
+     "fin": "unjā",
+     "parts": []
+    },
+    {
+     "fa": "بیام",
+     "fin": "biyām",
+     "parts": [
+      {
+       "fin": "bi",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l06-05"
+  },
+  {
+   "type": "teach",
+   "id": "l06-06",
+   "audio": "l06-06",
+   "say": "And eat: bokhoram. Say it out loud, with bāyad first.",
+   "en": "I have to eat",
+   "fa": "باید بخورم",
+   "fin": "bāyad bokhoram",
+   "words": [
+    {
+     "fa": "باید",
+     "fin": "bāyad",
+     "parts": [
+      {
+       "fin": "bāyad",
+       "role": "stem",
+       "gloss": "must / have to"
+      }
+     ]
+    },
+    {
+     "fa": "بخورم",
+     "fin": "bokhoram",
+     "parts": [
+      {
+       "fin": "bo",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "prompt",
+   "id": "l06-07",
+   "en": "How do you say: I have to eat here?",
+   "fa": "باید اینجا بخورم",
+   "fin": "bāyad injā bokhoram",
+   "words": [
+    {
+     "fa": "باید",
+     "fin": "bāyad",
+     "parts": [
+      {
+       "fin": "bāyad",
+       "role": "stem",
+       "gloss": "must / have to"
+      }
+     ]
+    },
+    {
+     "fa": "اینجا",
+     "fin": "injā",
+     "parts": []
+    },
+    {
+     "fa": "بخورم",
+     "fin": "bokhoram",
+     "parts": [
+      {
+       "fin": "bo",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l06-07"
+  },
+  {
+   "type": "teach",
+   "id": "l06-08",
+   "audio": "l06-08",
+   "say": "Here is the lovely part. Bāyad stays exactly the same for everyone. Only the verb changes, as you learned. Bāyad biyāy: you have to come. Say it.",
+   "en": "you have to come",
+   "fa": "باید بیای",
+   "fin": "bāyad biyāy",
+   "words": [
+    {
+     "fa": "باید",
+     "fin": "bāyad",
+     "parts": [
+      {
+       "fin": "bāyad",
+       "role": "stem",
+       "gloss": "must / have to"
+      }
+     ]
+    },
+    {
+     "fa": "بیای",
+     "fin": "biyāy",
+     "parts": [
+      {
+       "fin": "bi",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "y",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    }
+   ],
+   "note": "Compare mikhāy / mitūni: the person lives on the verb, not on bāyad."
+  },
+  {
+   "type": "prompt",
+   "id": "l06-09",
+   "en": "How do you say: You have to go?",
+   "fa": "باید بری",
+   "fin": "bāyad beri",
+   "words": [
+    {
+     "fa": "باید",
+     "fin": "bāyad",
+     "parts": [
+      {
+       "fin": "bāyad",
+       "role": "stem",
+       "gloss": "must / have to"
+      }
+     ]
+    },
+    {
+     "fa": "بری",
+     "fin": "beri",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "i",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    }
+   ],
+   "audio": "l06-09"
+  },
+  {
+   "type": "teach",
+   "id": "l06-10",
+   "audio": "l06-10",
+   "say": "Now 'he' or 'she': the ending is -e. Fardā, bāyad bere. Say it.",
+   "en": "tomorrow he/she has to go",
+   "fa": "فردا باید بره",
+   "fin": "fardā bāyad bere",
+   "words": [
+    {
+     "fa": "فردا",
+     "fin": "fardā",
+     "parts": []
+    },
+    {
+     "fa": "باید",
+     "fin": "bāyad",
+     "parts": [
+      {
+       "fin": "bāyad",
+       "role": "stem",
+       "gloss": "must / have to"
+      }
+     ]
+    },
+    {
+     "fa": "بره",
+     "fin": "bere",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "e",
+       "role": "ending",
+       "gloss": "he/she"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "prompt",
+   "id": "l06-11",
+   "en": "How do you say: We have to eat here?",
+   "fa": "باید اینجا بخوریم",
+   "fin": "bāyad injā bokhorim",
+   "words": [
+    {
+     "fa": "باید",
+     "fin": "bāyad",
+     "parts": [
+      {
+       "fin": "bāyad",
+       "role": "stem",
+       "gloss": "must / have to"
+      }
+     ]
+    },
+    {
+     "fa": "اینجا",
+     "fin": "injā",
+     "parts": []
+    },
+    {
+     "fa": "بخوریم",
+     "fin": "bokhorim",
+     "parts": [
+      {
+       "fin": "bo",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "im",
+       "role": "ending",
+       "gloss": "we"
+      }
+     ]
+    }
+   ],
+   "audio": "l06-11"
+  },
+  {
+   "type": "prompt",
+   "id": "l06-12",
+   "en": "How do you say: Tomorrow I have to go there?",
+   "fa": "فردا باید اونجا برم",
+   "fin": "fardā bāyad unjā beram",
+   "words": [
+    {
+     "fa": "فردا",
+     "fin": "fardā",
+     "parts": []
+    },
+    {
+     "fa": "باید",
+     "fin": "bāyad",
+     "parts": [
+      {
+       "fin": "bāyad",
+       "role": "stem",
+       "gloss": "must / have to"
+      }
+     ]
+    },
+    {
+     "fa": "اونجا",
+     "fin": "unjā",
+     "parts": []
+    },
+    {
+     "fa": "برم",
+     "fin": "beram",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l06-12"
+  },
+  {
+   "type": "teach",
+   "id": "l06-13",
+   "audio": "l06-13",
+   "say": "Now the opposite. Put na- on bāyad: nabāyad, 'must not' or 'shouldn't'. Nabāyad bokhoram. Say it.",
+   "en": "I mustn't eat",
+   "fa": "نباید بخورم",
+   "fin": "nabāyad bokhoram",
+   "words": [
+    {
+     "fa": "نباید",
+     "fin": "nabāyad",
+     "parts": [
+      {
+       "fin": "na",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "bāyad",
+       "role": "stem",
+       "gloss": "must / have to"
+      }
+     ]
+    },
+    {
+     "fa": "بخورم",
+     "fin": "bokhoram",
+     "parts": [
+      {
+       "fin": "bo",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "note": "na- here, not ne-: nabāyad, but nemikhām."
+  },
+  {
+   "type": "prompt",
+   "id": "l06-14",
+   "en": "How do you say: You shouldn't go there?",
+   "fa": "نباید اونجا بری",
+   "fin": "nabāyad unjā beri",
+   "words": [
+    {
+     "fa": "نباید",
+     "fin": "nabāyad",
+     "parts": [
+      {
+       "fin": "na",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "bāyad",
+       "role": "stem",
+       "gloss": "must / have to"
+      }
+     ]
+    },
+    {
+     "fa": "اونجا",
+     "fin": "unjā",
+     "parts": []
+    },
+    {
+     "fa": "بری",
+     "fin": "beri",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "i",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    }
+   ],
+   "audio": "l06-14"
+  },
+  {
+   "type": "prompt",
+   "id": "l06-15",
+   "en": "How do you say: He mustn't come here today?",
+   "fa": "نباید امروز اینجا بیاد",
+   "fin": "nabāyad emruz injā biyād",
+   "words": [
+    {
+     "fa": "نباید",
+     "fin": "nabāyad",
+     "parts": [
+      {
+       "fin": "na",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "bāyad",
+       "role": "stem",
+       "gloss": "must / have to"
+      }
+     ]
+    },
+    {
+     "fa": "امروز",
+     "fin": "emruz",
+     "parts": []
+    },
+    {
+     "fa": "اینجا",
+     "fin": "injā",
+     "parts": []
+    },
+    {
+     "fa": "بیاد",
+     "fin": "biyād",
+     "parts": [
+      {
+       "fin": "bi",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "d",
+       "role": "ending",
+       "gloss": "he/she"
+      }
+     ]
+    }
+   ],
+   "audio": "l06-15"
+  },
+  {
+   "type": "teach",
+   "id": "l06-16",
+   "audio": "l06-16",
+   "say": "Now we join ideas. Vali means 'but'. Listen: I want to go, but I can't. Mikhām beram, vali nemitūnam. Say it.",
+   "en": "I want to go but I can't",
+   "fa": "می‌خوام برم ولی نمی‌تونم",
+   "fin": "mikhām beram vali nemitūnam",
+   "words": [
+    {
+     "fa": "می‌خوام",
+     "fin": "mikhām",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "برم",
+     "fin": "beram",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "ولی",
+     "fin": "vali",
+     "parts": []
+    },
+    {
+     "fa": "نمی‌تونم",
+     "fin": "nemitūnam",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "tūn",
+       "role": "stem",
+       "gloss": "can"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "note": "After vali you can drop the verb: nemitūnam alone means 'I can't (do it)'."
+  },
+  {
+   "type": "prompt",
+   "id": "l06-17",
+   "en": "How do you say: I want to come but I can't?",
+   "fa": "می‌خوام بیام ولی نمی‌تونم",
+   "fin": "mikhām biyām vali nemitūnam",
+   "words": [
+    {
+     "fa": "می‌خوام",
+     "fin": "mikhām",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "بیام",
+     "fin": "biyām",
+     "parts": [
+      {
+       "fin": "bi",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "ولی",
+     "fin": "vali",
+     "parts": []
+    },
+    {
+     "fa": "نمی‌تونم",
+     "fin": "nemitūnam",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "tūn",
+       "role": "stem",
+       "gloss": "can"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l06-17"
+  },
+  {
+   "type": "prompt",
+   "id": "l06-18",
+   "en": "How do you say: I can't go but you can?",
+   "fa": "نمی‌تونم برم ولی می‌تونی بری",
+   "fin": "nemitūnam beram vali mitūni beri",
+   "words": [
+    {
+     "fa": "نمی‌تونم",
+     "fin": "nemitūnam",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "tūn",
+       "role": "stem",
+       "gloss": "can"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "برم",
+     "fin": "beram",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "ولی",
+     "fin": "vali",
+     "parts": []
+    },
+    {
+     "fa": "می‌تونی",
+     "fin": "mitūni",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "tūn",
+       "role": "stem",
+       "gloss": "can"
+      },
+      {
+       "fin": "i",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    },
+    {
+     "fa": "بری",
+     "fin": "beri",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "i",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    }
+   ],
+   "audio": "l06-18"
+  },
+  {
+   "type": "teach",
+   "id": "l06-19",
+   "audio": "l06-19",
+   "say": "Vali works with bāyad too. I want to go, but I have to eat. Say it.",
+   "en": "I want to go but I have to eat",
+   "fa": "می‌خوام برم ولی باید بخورم",
+   "fin": "mikhām beram vali bāyad bokhoram",
+   "words": [
+    {
+     "fa": "می‌خوام",
+     "fin": "mikhām",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "برم",
+     "fin": "beram",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "ولی",
+     "fin": "vali",
+     "parts": []
+    },
+    {
+     "fa": "باید",
+     "fin": "bāyad",
+     "parts": [
+      {
+       "fin": "bāyad",
+       "role": "stem",
+       "gloss": "must / have to"
+      }
+     ]
+    },
+    {
+     "fa": "بخورم",
+     "fin": "bokhoram",
+     "parts": [
+      {
+       "fin": "bo",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "prompt",
+   "id": "l06-20",
+   "en": "How do you say: Tomorrow I have to go there but I don't want to?",
+   "fa": "فردا باید اونجا برم ولی نمی‌خوام",
+   "fin": "fardā bāyad unjā beram vali nemikhām",
+   "words": [
+    {
+     "fa": "فردا",
+     "fin": "fardā",
+     "parts": []
+    },
+    {
+     "fa": "باید",
+     "fin": "bāyad",
+     "parts": [
+      {
+       "fin": "bāyad",
+       "role": "stem",
+       "gloss": "must / have to"
+      }
+     ]
+    },
+    {
+     "fa": "اونجا",
+     "fin": "unjā",
+     "parts": []
+    },
+    {
+     "fa": "برم",
+     "fin": "beram",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "ولی",
+     "fin": "vali",
+     "parts": []
+    },
+    {
+     "fa": "نمی‌خوام",
+     "fin": "nemikhām",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l06-20",
+   "hint": "After vali: nemikhām on its own."
+  },
+  {
+   "type": "teach",
+   "id": "l06-21",
+   "audio": "l06-21",
+   "say": "Next word: chon, 'because'. Nemitūnam beram, chon bāyad bokhoram. I can't go because I have to eat. Say it.",
+   "en": "I can't go because I have to eat",
+   "fa": "نمی‌تونم برم چون باید بخورم",
+   "fin": "nemitūnam beram chon bāyad bokhoram",
+   "words": [
+    {
+     "fa": "نمی‌تونم",
+     "fin": "nemitūnam",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "tūn",
+       "role": "stem",
+       "gloss": "can"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "برم",
+     "fin": "beram",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "چون",
+     "fin": "chon",
+     "parts": []
+    },
+    {
+     "fa": "باید",
+     "fin": "bāyad",
+     "parts": [
+      {
+       "fin": "bāyad",
+       "role": "stem",
+       "gloss": "must / have to"
+      }
+     ]
+    },
+    {
+     "fa": "بخورم",
+     "fin": "bokhoram",
+     "parts": [
+      {
+       "fin": "bo",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "prompt",
+   "id": "l06-22",
+   "en": "How do you say: I can't come because I have to go there?",
+   "fa": "نمی‌تونم بیام چون باید اونجا برم",
+   "fin": "nemitūnam biyām chon bāyad unjā beram",
+   "words": [
+    {
+     "fa": "نمی‌تونم",
+     "fin": "nemitūnam",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "tūn",
+       "role": "stem",
+       "gloss": "can"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "بیام",
+     "fin": "biyām",
+     "parts": [
+      {
+       "fin": "bi",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "چون",
+     "fin": "chon",
+     "parts": []
+    },
+    {
+     "fa": "باید",
+     "fin": "bāyad",
+     "parts": [
+      {
+       "fin": "bāyad",
+       "role": "stem",
+       "gloss": "must / have to"
+      }
+     ]
+    },
+    {
+     "fa": "اونجا",
+     "fin": "unjā",
+     "parts": []
+    },
+    {
+     "fa": "برم",
+     "fin": "beram",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l06-22"
+  },
+  {
+   "type": "prompt",
+   "id": "l06-23",
+   "en": "How do you say: You can't eat here because we have to go?",
+   "fa": "نمی‌تونی اینجا بخوری چون باید بریم",
+   "fin": "nemitūni injā bokhori chon bāyad berim",
+   "words": [
+    {
+     "fa": "نمی‌تونی",
+     "fin": "nemitūni",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "tūn",
+       "role": "stem",
+       "gloss": "can"
+      },
+      {
+       "fin": "i",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    },
+    {
+     "fa": "اینجا",
+     "fin": "injā",
+     "parts": []
+    },
+    {
+     "fa": "بخوری",
+     "fin": "bokhori",
+     "parts": [
+      {
+       "fin": "bo",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "i",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    },
+    {
+     "fa": "چون",
+     "fin": "chon",
+     "parts": []
+    },
+    {
+     "fa": "باید",
+     "fin": "bāyad",
+     "parts": [
+      {
+       "fin": "bāyad",
+       "role": "stem",
+       "gloss": "must / have to"
+      }
+     ]
+    },
+    {
+     "fa": "بریم",
+     "fin": "berim",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "im",
+       "role": "ending",
+       "gloss": "we"
+      }
+     ]
+    }
+   ],
+   "audio": "l06-23"
+  },
+  {
+   "type": "prompt",
+   "id": "l06-24",
+   "en": "How do you say: Why can't you come??",
+   "fa": "چرا نمی‌تونی بیای",
+   "fin": "cherā nemitūni biyāy",
+   "words": [
+    {
+     "fa": "چرا",
+     "fin": "cherā",
+     "parts": []
+    },
+    {
+     "fa": "نمی‌تونی",
+     "fin": "nemitūni",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "tūn",
+       "role": "stem",
+       "gloss": "can"
+      },
+      {
+       "fin": "i",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    },
+    {
+     "fa": "بیای",
+     "fin": "biyāy",
+     "parts": [
+      {
+       "fin": "bi",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "y",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    }
+   ],
+   "audio": "l06-24"
+  },
+  {
+   "type": "prompt",
+   "id": "l06-25",
+   "en": "How do you say: Because I have to go?",
+   "fa": "چون باید برم",
+   "fin": "chon bāyad beram",
+   "words": [
+    {
+     "fa": "چون",
+     "fin": "chon",
+     "parts": []
+    },
+    {
+     "fa": "باید",
+     "fin": "bāyad",
+     "parts": [
+      {
+       "fin": "bāyad",
+       "role": "stem",
+       "gloss": "must / have to"
+      }
+     ]
+    },
+    {
+     "fa": "برم",
+     "fin": "beram",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l06-25"
+  },
+  {
+   "type": "teach",
+   "id": "l06-26",
+   "audio": "l06-26",
+   "say": "Now 'or': yā. Say it with me: you can come here or go there. Mitūni injā biyāy yā unjā beri.",
+   "en": "you can come here or go there",
+   "fa": "می‌تونی اینجا بیای یا اونجا بری",
+   "fin": "mitūni injā biyāy yā unjā beri",
+   "words": [
+    {
+     "fa": "می‌تونی",
+     "fin": "mitūni",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "tūn",
+       "role": "stem",
+       "gloss": "can"
+      },
+      {
+       "fin": "i",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    },
+    {
+     "fa": "اینجا",
+     "fin": "injā",
+     "parts": []
+    },
+    {
+     "fa": "بیای",
+     "fin": "biyāy",
+     "parts": [
+      {
+       "fin": "bi",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "y",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    },
+    {
+     "fa": "یا",
+     "fin": "yā",
+     "parts": []
+    },
+    {
+     "fa": "اونجا",
+     "fin": "unjā",
+     "parts": []
+    },
+    {
+     "fa": "بری",
+     "fin": "beri",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "i",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "prompt",
+   "id": "l06-27",
+   "en": "How do you say: Do you want to eat here or go there??",
+   "fa": "می‌خوای اینجا بخوری یا اونجا بری",
+   "fin": "mikhāy injā bokhori yā unjā beri",
+   "words": [
+    {
+     "fa": "می‌خوای",
+     "fin": "mikhāy",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "y",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    },
+    {
+     "fa": "اینجا",
+     "fin": "injā",
+     "parts": []
+    },
+    {
+     "fa": "بخوری",
+     "fin": "bokhori",
+     "parts": [
+      {
+       "fin": "bo",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "i",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    },
+    {
+     "fa": "یا",
+     "fin": "yā",
+     "parts": []
+    },
+    {
+     "fa": "اونجا",
+     "fin": "unjā",
+     "parts": []
+    },
+    {
+     "fa": "بری",
+     "fin": "beri",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "i",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    }
+   ],
+   "audio": "l06-27",
+   "hint": "Raise your voice at the end: it's a question."
+  },
+  {
+   "type": "prompt",
+   "id": "l06-28",
+   "en": "How do you say: He can come today or tomorrow?",
+   "fa": "می‌تونه امروز یا فردا بیاد",
+   "fin": "mitūne emruz yā fardā biyād",
+   "words": [
+    {
+     "fa": "می‌تونه",
+     "fin": "mitūne",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "tūn",
+       "role": "stem",
+       "gloss": "can"
+      },
+      {
+       "fin": "e",
+       "role": "ending",
+       "gloss": "he/she"
+      }
+     ]
+    },
+    {
+     "fa": "امروز",
+     "fin": "emruz",
+     "parts": []
+    },
+    {
+     "fa": "یا",
+     "fin": "yā",
+     "parts": []
+    },
+    {
+     "fa": "فردا",
+     "fin": "fardā",
+     "parts": []
+    },
+    {
+     "fa": "بیاد",
+     "fin": "biyād",
+     "parts": [
+      {
+       "fin": "bi",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "d",
+       "role": "ending",
+       "gloss": "he/she"
+      }
+     ]
+    }
+   ],
+   "audio": "l06-28"
+  },
+  {
+   "type": "teach",
+   "id": "l06-29",
+   "audio": "l06-29",
+   "say": "Last joining word: 'and'. Written it is va, but in speech people just say o. Bāyad beram o bokhoram. I have to go and eat. Say it.",
+   "en": "I have to go and eat",
+   "fa": "باید برم و بخورم",
+   "fin": "bāyad beram o bokhoram",
+   "words": [
+    {
+     "fa": "باید",
+     "fin": "bāyad",
+     "parts": [
+      {
+       "fin": "bāyad",
+       "role": "stem",
+       "gloss": "must / have to"
+      }
+     ]
+    },
+    {
+     "fa": "برم",
+     "fin": "beram",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "و",
+     "fin": "o",
+     "parts": []
+    },
+    {
+     "fa": "بخورم",
+     "fin": "bokhoram",
+     "parts": [
+      {
+       "fin": "bo",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "note": "Written و (va), spoken 'o'."
+  },
+  {
+   "type": "prompt",
+   "id": "l06-30",
+   "en": "How do you say: We want to go there and eat?",
+   "fa": "می‌خوایم اونجا بریم و بخوریم",
+   "fin": "mikhāym unjā berim o bokhorim",
+   "words": [
+    {
+     "fa": "می‌خوایم",
+     "fin": "mikhāym",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "ym",
+       "role": "ending",
+       "gloss": "we"
+      }
+     ]
+    },
+    {
+     "fa": "اونجا",
+     "fin": "unjā",
+     "parts": []
+    },
+    {
+     "fa": "بریم",
+     "fin": "berim",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "im",
+       "role": "ending",
+       "gloss": "we"
+      }
+     ]
+    },
+    {
+     "fa": "و",
+     "fin": "o",
+     "parts": []
+    },
+    {
+     "fa": "بخوریم",
+     "fin": "bokhorim",
+     "parts": [
+      {
+       "fin": "bo",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "im",
+       "role": "ending",
+       "gloss": "we"
+      }
+     ]
+    }
+   ],
+   "audio": "l06-30"
+  },
+  {
+   "type": "prompt",
+   "id": "l06-31",
+   "en": "How do you say: Tonight I have to go but tomorrow I can come?",
+   "fa": "امشب باید برم ولی فردا می‌تونم بیام",
+   "fin": "emshab bāyad beram vali fardā mitūnam biyām",
+   "words": [
+    {
+     "fa": "امشب",
+     "fin": "emshab",
+     "parts": []
+    },
+    {
+     "fa": "باید",
+     "fin": "bāyad",
+     "parts": [
+      {
+       "fin": "bāyad",
+       "role": "stem",
+       "gloss": "must / have to"
+      }
+     ]
+    },
+    {
+     "fa": "برم",
+     "fin": "beram",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "ولی",
+     "fin": "vali",
+     "parts": []
+    },
+    {
+     "fa": "فردا",
+     "fin": "fardā",
+     "parts": []
+    },
+    {
+     "fa": "می‌تونم",
+     "fin": "mitūnam",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "tūn",
+       "role": "stem",
+       "gloss": "can"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "بیام",
+     "fin": "biyām",
+     "parts": [
+      {
+       "fin": "bi",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l06-31"
+  },
+  {
+   "type": "prompt",
+   "id": "l06-32",
+   "en": "How do you say: Today I can't go there because I have to come here and eat?",
+   "fa": "امروز نمی‌تونم اونجا برم چون باید اینجا بیام و بخورم",
+   "fin": "emruz nemitūnam unjā beram chon bāyad injā biyām o bokhoram",
+   "words": [
+    {
+     "fa": "امروز",
+     "fin": "emruz",
+     "parts": []
+    },
+    {
+     "fa": "نمی‌تونم",
+     "fin": "nemitūnam",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "tūn",
+       "role": "stem",
+       "gloss": "can"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "اونجا",
+     "fin": "unjā",
+     "parts": []
+    },
+    {
+     "fa": "برم",
+     "fin": "beram",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "چون",
+     "fin": "chon",
+     "parts": []
+    },
+    {
+     "fa": "باید",
+     "fin": "bāyad",
+     "parts": [
+      {
+       "fin": "bāyad",
+       "role": "stem",
+       "gloss": "must / have to"
+      }
+     ]
+    },
+    {
+     "fa": "اینجا",
+     "fin": "injā",
+     "parts": []
+    },
+    {
+     "fa": "بیام",
+     "fin": "biyām",
+     "parts": [
+      {
+       "fin": "bi",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "و",
+     "fin": "o",
+     "parts": []
+    },
+    {
+     "fa": "بخورم",
+     "fin": "bokhoram",
+     "parts": [
+      {
+       "fin": "bo",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l06-32"
+  },
+  {
+   "type": "review",
+   "id": "l06-41",
+   "say": "Now chain them yourself. Say each whole sentence before you reveal it.",
+   "items": [
+    {
+     "type": "prompt",
+     "id": "l06-33",
+     "en": "I want to go but I can't because I have to eat",
+     "fa": "می‌خوام برم ولی نمی‌تونم چون باید بخورم",
+     "fin": "mikhām beram vali nemitūnam chon bāyad bokhoram",
+     "words": [
+      {
+       "fa": "می‌خوام",
+       "fin": "mikhām",
+       "parts": [
+        {
+         "fin": "mi",
+         "role": "prefix",
+         "gloss": "ongoing / present"
+        },
+        {
+         "fin": "khā",
+         "role": "stem",
+         "gloss": "want"
+        },
+        {
+         "fin": "m",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      },
+      {
+       "fa": "برم",
+       "fin": "beram",
+       "parts": [
+        {
+         "fin": "be",
+         "role": "prefix",
+         "gloss": "'to' (subjunctive)"
+        },
+        {
+         "fin": "r",
+         "role": "stem",
+         "gloss": "go"
+        },
+        {
+         "fin": "am",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      },
+      {
+       "fa": "ولی",
+       "fin": "vali",
+       "parts": []
+      },
+      {
+       "fa": "نمی‌تونم",
+       "fin": "nemitūnam",
+       "parts": [
+        {
+         "fin": "ne",
+         "role": "neg",
+         "gloss": "not"
+        },
+        {
+         "fin": "mi",
+         "role": "prefix",
+         "gloss": "ongoing / present"
+        },
+        {
+         "fin": "tūn",
+         "role": "stem",
+         "gloss": "can"
+        },
+        {
+         "fin": "am",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      },
+      {
+       "fa": "چون",
+       "fin": "chon",
+       "parts": []
+      },
+      {
+       "fa": "باید",
+       "fin": "bāyad",
+       "parts": [
+        {
+         "fin": "bāyad",
+         "role": "stem",
+         "gloss": "must / have to"
+        }
+       ]
+      },
+      {
+       "fa": "بخورم",
+       "fin": "bokhoram",
+       "parts": [
+        {
+         "fin": "bo",
+         "role": "prefix",
+         "gloss": "'to' (subjunctive)"
+        },
+        {
+         "fin": "khor",
+         "role": "stem",
+         "gloss": "eat"
+        },
+        {
+         "fin": "am",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      }
+     ],
+     "audio": "l06-33"
+    },
+    {
+     "type": "prompt",
+     "id": "l06-34",
+     "en": "I have to go there tomorrow but I don't want to",
+     "fa": "باید فردا اونجا برم ولی نمی‌خوام",
+     "fin": "bāyad fardā unjā beram vali nemikhām",
+     "words": [
+      {
+       "fa": "باید",
+       "fin": "bāyad",
+       "parts": [
+        {
+         "fin": "bāyad",
+         "role": "stem",
+         "gloss": "must / have to"
+        }
+       ]
+      },
+      {
+       "fa": "فردا",
+       "fin": "fardā",
+       "parts": []
+      },
+      {
+       "fa": "اونجا",
+       "fin": "unjā",
+       "parts": []
+      },
+      {
+       "fa": "برم",
+       "fin": "beram",
+       "parts": [
+        {
+         "fin": "be",
+         "role": "prefix",
+         "gloss": "'to' (subjunctive)"
+        },
+        {
+         "fin": "r",
+         "role": "stem",
+         "gloss": "go"
+        },
+        {
+         "fin": "am",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      },
+      {
+       "fa": "ولی",
+       "fin": "vali",
+       "parts": []
+      },
+      {
+       "fa": "نمی‌خوام",
+       "fin": "nemikhām",
+       "parts": [
+        {
+         "fin": "ne",
+         "role": "neg",
+         "gloss": "not"
+        },
+        {
+         "fin": "mi",
+         "role": "prefix",
+         "gloss": "ongoing / present"
+        },
+        {
+         "fin": "khā",
+         "role": "stem",
+         "gloss": "want"
+        },
+        {
+         "fin": "m",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      }
+     ],
+     "audio": "l06-34"
+    },
+    {
+     "type": "prompt",
+     "id": "l06-35",
+     "en": "You can come here or go there",
+     "fa": "می‌تونی اینجا بیای یا اونجا بری",
+     "fin": "mitūni injā biyāy yā unjā beri",
+     "words": [
+      {
+       "fa": "می‌تونی",
+       "fin": "mitūni",
+       "parts": [
+        {
+         "fin": "mi",
+         "role": "prefix",
+         "gloss": "ongoing / present"
+        },
+        {
+         "fin": "tūn",
+         "role": "stem",
+         "gloss": "can"
+        },
+        {
+         "fin": "i",
+         "role": "ending",
+         "gloss": "you"
+        }
+       ]
+      },
+      {
+       "fa": "اینجا",
+       "fin": "injā",
+       "parts": []
+      },
+      {
+       "fa": "بیای",
+       "fin": "biyāy",
+       "parts": [
+        {
+         "fin": "bi",
+         "role": "prefix",
+         "gloss": "'to' (subjunctive)"
+        },
+        {
+         "fin": "yā",
+         "role": "stem",
+         "gloss": "come"
+        },
+        {
+         "fin": "y",
+         "role": "ending",
+         "gloss": "you"
+        }
+       ]
+      },
+      {
+       "fa": "یا",
+       "fin": "yā",
+       "parts": []
+      },
+      {
+       "fa": "اونجا",
+       "fin": "unjā",
+       "parts": []
+      },
+      {
+       "fa": "بری",
+       "fin": "beri",
+       "parts": [
+        {
+         "fin": "be",
+         "role": "prefix",
+         "gloss": "'to' (subjunctive)"
+        },
+        {
+         "fin": "r",
+         "role": "stem",
+         "gloss": "go"
+        },
+        {
+         "fin": "i",
+         "role": "ending",
+         "gloss": "you"
+        }
+       ]
+      }
+     ],
+     "audio": "l06-35"
+    },
+    {
+     "type": "prompt",
+     "id": "l06-36",
+     "en": "They can't eat here because they have to go",
+     "fa": "نمی‌تونن اینجا بخورن چون باید برن",
+     "fin": "nemitūnan injā bokhoran chon bāyad beran",
+     "words": [
+      {
+       "fa": "نمی‌تونن",
+       "fin": "nemitūnan",
+       "parts": [
+        {
+         "fin": "ne",
+         "role": "neg",
+         "gloss": "not"
+        },
+        {
+         "fin": "mi",
+         "role": "prefix",
+         "gloss": "ongoing / present"
+        },
+        {
+         "fin": "tūn",
+         "role": "stem",
+         "gloss": "can"
+        },
+        {
+         "fin": "an",
+         "role": "ending",
+         "gloss": "they"
+        }
+       ]
+      },
+      {
+       "fa": "اینجا",
+       "fin": "injā",
+       "parts": []
+      },
+      {
+       "fa": "بخورن",
+       "fin": "bokhoran",
+       "parts": [
+        {
+         "fin": "bo",
+         "role": "prefix",
+         "gloss": "'to' (subjunctive)"
+        },
+        {
+         "fin": "khor",
+         "role": "stem",
+         "gloss": "eat"
+        },
+        {
+         "fin": "an",
+         "role": "ending",
+         "gloss": "they"
+        }
+       ]
+      },
+      {
+       "fa": "چون",
+       "fin": "chon",
+       "parts": []
+      },
+      {
+       "fa": "باید",
+       "fin": "bāyad",
+       "parts": [
+        {
+         "fin": "bāyad",
+         "role": "stem",
+         "gloss": "must / have to"
+        }
+       ]
+      },
+      {
+       "fa": "برن",
+       "fin": "beran",
+       "parts": [
+        {
+         "fin": "be",
+         "role": "prefix",
+         "gloss": "'to' (subjunctive)"
+        },
+        {
+         "fin": "r",
+         "role": "stem",
+         "gloss": "go"
+        },
+        {
+         "fin": "an",
+         "role": "ending",
+         "gloss": "they"
+        }
+       ]
+      }
+     ],
+     "audio": "l06-36"
+    },
+    {
+     "type": "prompt",
+     "id": "l06-37",
+     "en": "You mustn't go there but he has to go",
+     "fa": "نباید اونجا بری ولی باید بره",
+     "fin": "nabāyad unjā beri vali bāyad bere",
+     "words": [
+      {
+       "fa": "نباید",
+       "fin": "nabāyad",
+       "parts": [
+        {
+         "fin": "na",
+         "role": "neg",
+         "gloss": "not"
+        },
+        {
+         "fin": "bāyad",
+         "role": "stem",
+         "gloss": "must / have to"
+        }
+       ]
+      },
+      {
+       "fa": "اونجا",
+       "fin": "unjā",
+       "parts": []
+      },
+      {
+       "fa": "بری",
+       "fin": "beri",
+       "parts": [
+        {
+         "fin": "be",
+         "role": "prefix",
+         "gloss": "'to' (subjunctive)"
+        },
+        {
+         "fin": "r",
+         "role": "stem",
+         "gloss": "go"
+        },
+        {
+         "fin": "i",
+         "role": "ending",
+         "gloss": "you"
+        }
+       ]
+      },
+      {
+       "fa": "ولی",
+       "fin": "vali",
+       "parts": []
+      },
+      {
+       "fa": "باید",
+       "fin": "bāyad",
+       "parts": [
+        {
+         "fin": "bāyad",
+         "role": "stem",
+         "gloss": "must / have to"
+        }
+       ]
+      },
+      {
+       "fa": "بره",
+       "fin": "bere",
+       "parts": [
+        {
+         "fin": "be",
+         "role": "prefix",
+         "gloss": "'to' (subjunctive)"
+        },
+        {
+         "fin": "r",
+         "role": "stem",
+         "gloss": "go"
+        },
+        {
+         "fin": "e",
+         "role": "ending",
+         "gloss": "he/she"
+        }
+       ]
+      }
+     ],
+     "audio": "l06-37"
+    },
+    {
+     "type": "prompt",
+     "id": "l06-38",
+     "en": "Do you want to come tomorrow or tonight?",
+     "fa": "می‌خوای فردا بیای یا امشب",
+     "fin": "mikhāy fardā biyāy yā emshab",
+     "words": [
+      {
+       "fa": "می‌خوای",
+       "fin": "mikhāy",
+       "parts": [
+        {
+         "fin": "mi",
+         "role": "prefix",
+         "gloss": "ongoing / present"
+        },
+        {
+         "fin": "khā",
+         "role": "stem",
+         "gloss": "want"
+        },
+        {
+         "fin": "y",
+         "role": "ending",
+         "gloss": "you"
+        }
+       ]
+      },
+      {
+       "fa": "فردا",
+       "fin": "fardā",
+       "parts": []
+      },
+      {
+       "fa": "بیای",
+       "fin": "biyāy",
+       "parts": [
+        {
+         "fin": "bi",
+         "role": "prefix",
+         "gloss": "'to' (subjunctive)"
+        },
+        {
+         "fin": "yā",
+         "role": "stem",
+         "gloss": "come"
+        },
+        {
+         "fin": "y",
+         "role": "ending",
+         "gloss": "you"
+        }
+       ]
+      },
+      {
+       "fa": "یا",
+       "fin": "yā",
+       "parts": []
+      },
+      {
+       "fa": "امشب",
+       "fin": "emshab",
+       "parts": []
+      }
+     ],
+     "audio": "l06-38"
+    },
+    {
+     "type": "prompt",
+     "id": "l06-39",
+     "en": "I have to eat and go but I can't now",
+     "fa": "باید بخورم و برم ولی الان نمی‌تونم",
+     "fin": "bāyad bokhoram o beram vali alān nemitūnam",
+     "words": [
+      {
+       "fa": "باید",
+       "fin": "bāyad",
+       "parts": [
+        {
+         "fin": "bāyad",
+         "role": "stem",
+         "gloss": "must / have to"
+        }
+       ]
+      },
+      {
+       "fa": "بخورم",
+       "fin": "bokhoram",
+       "parts": [
+        {
+         "fin": "bo",
+         "role": "prefix",
+         "gloss": "'to' (subjunctive)"
+        },
+        {
+         "fin": "khor",
+         "role": "stem",
+         "gloss": "eat"
+        },
+        {
+         "fin": "am",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      },
+      {
+       "fa": "و",
+       "fin": "o",
+       "parts": []
+      },
+      {
+       "fa": "برم",
+       "fin": "beram",
+       "parts": [
+        {
+         "fin": "be",
+         "role": "prefix",
+         "gloss": "'to' (subjunctive)"
+        },
+        {
+         "fin": "r",
+         "role": "stem",
+         "gloss": "go"
+        },
+        {
+         "fin": "am",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      },
+      {
+       "fa": "ولی",
+       "fin": "vali",
+       "parts": []
+      },
+      {
+       "fa": "الان",
+       "fin": "alān",
+       "parts": []
+      },
+      {
+       "fa": "نمی‌تونم",
+       "fin": "nemitūnam",
+       "parts": [
+        {
+         "fin": "ne",
+         "role": "neg",
+         "gloss": "not"
+        },
+        {
+         "fin": "mi",
+         "role": "prefix",
+         "gloss": "ongoing / present"
+        },
+        {
+         "fin": "tūn",
+         "role": "stem",
+         "gloss": "can"
+        },
+        {
+         "fin": "am",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      }
+     ],
+     "audio": "l06-39"
+    },
+    {
+     "type": "prompt",
+     "id": "l06-40",
+     "en": "We can't come because we have to go",
+     "fa": "نمی‌تونیم بیایم چون باید بریم",
+     "fin": "nemitūnim biyāym chon bāyad berim",
+     "words": [
+      {
+       "fa": "نمی‌تونیم",
+       "fin": "nemitūnim",
+       "parts": [
+        {
+         "fin": "ne",
+         "role": "neg",
+         "gloss": "not"
+        },
+        {
+         "fin": "mi",
+         "role": "prefix",
+         "gloss": "ongoing / present"
+        },
+        {
+         "fin": "tūn",
+         "role": "stem",
+         "gloss": "can"
+        },
+        {
+         "fin": "im",
+         "role": "ending",
+         "gloss": "we"
+        }
+       ]
+      },
+      {
+       "fa": "بیایم",
+       "fin": "biyāym",
+       "parts": [
+        {
+         "fin": "bi",
+         "role": "prefix",
+         "gloss": "'to' (subjunctive)"
+        },
+        {
+         "fin": "yā",
+         "role": "stem",
+         "gloss": "come"
+        },
+        {
+         "fin": "ym",
+         "role": "ending",
+         "gloss": "we"
+        }
+       ]
+      },
+      {
+       "fa": "چون",
+       "fin": "chon",
+       "parts": []
+      },
+      {
+       "fa": "باید",
+       "fin": "bāyad",
+       "parts": [
+        {
+         "fin": "bāyad",
+         "role": "stem",
+         "gloss": "must / have to"
+        }
+       ]
+      },
+      {
+       "fa": "بریم",
+       "fin": "berim",
+       "parts": [
+        {
+         "fin": "be",
+         "role": "prefix",
+         "gloss": "'to' (subjunctive)"
+        },
+        {
+         "fin": "r",
+         "role": "stem",
+         "gloss": "go"
+        },
+        {
+         "fin": "im",
+         "role": "ending",
+         "gloss": "we"
+        }
+       ]
+      }
+     ],
+     "audio": "l06-40"
+    }
+   ]
+  }
+ ]
+}

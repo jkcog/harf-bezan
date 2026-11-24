@@ -1,0 +1,2261 @@
+{
+ "id": "l05",
+ "title": "Questions and requests",
+ "goal": "Ask yes/no questions with just your voice, use where / what / why / when, and ask 'can I...?' with mishe.",
+ "steps": [
+  {
+   "type": "teach",
+   "id": "l05-01",
+   "audio": "l05-01",
+   "say": "Welcome back. You already know that the ending -i or -y means 'you'. So 'I want' is mikhām, and 'you want' is mikhāy. Say it out loud.",
+   "en": "you want",
+   "fa": "می‌خوای",
+   "fin": "mikhāy",
+   "words": [
+    {
+     "fa": "می‌خوای",
+     "fin": "mikhāy",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "y",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    }
+   ],
+   "note": "mi + khā + -y: 'ongoing' + 'want' + 'you'."
+  },
+  {
+   "type": "prompt",
+   "id": "l05-02",
+   "en": "How do you say: you want?",
+   "fa": "می‌خوای",
+   "fin": "mikhāy",
+   "words": [
+    {
+     "fa": "می‌خوای",
+     "fin": "mikhāy",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "y",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    }
+   ],
+   "audio": "l05-02"
+  },
+  {
+   "type": "teach",
+   "id": "l05-03",
+   "audio": "l05-03",
+   "say": "Here is the big news of this lesson: to ask a yes/no question you change nothing. No extra word, no different order. You just raise your voice at the end. Say mikhāy biyāy, with your voice going up on the last syllable.",
+   "en": "Do you want to come?",
+   "fa": "می‌خوای بیای؟",
+   "fin": "mikhāy biyāy?",
+   "words": [
+    {
+     "fa": "می‌خوای",
+     "fin": "mikhāy",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "y",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    },
+    {
+     "fa": "بیای؟",
+     "fin": "biyāy?",
+     "parts": [
+      {
+       "fin": "bi",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "y",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    }
+   ],
+   "note": "A question is the same sentence with rising intonation."
+  },
+  {
+   "type": "prompt",
+   "id": "l05-04",
+   "en": "How do you say: Do you want to come??",
+   "fa": "می‌خوای بیای؟",
+   "fin": "mikhāy biyāy?",
+   "words": [
+    {
+     "fa": "می‌خوای",
+     "fin": "mikhāy",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "y",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    },
+    {
+     "fa": "بیای؟",
+     "fin": "biyāy?",
+     "parts": [
+      {
+       "fin": "bi",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "y",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    }
+   ],
+   "audio": "l05-04",
+   "hint": "Same words as a statement; the question is only in your voice."
+  },
+  {
+   "type": "teach",
+   "id": "l05-05",
+   "audio": "l05-05",
+   "say": "To answer yes, say āre. Then, in a calm falling voice: mikhām. Say it, and notice your voice goes down this time.",
+   "en": "Yes, I want to.",
+   "fa": "آره می‌خوام",
+   "fin": "āre mikhām",
+   "words": [
+    {
+     "fa": "آره",
+     "fin": "āre",
+     "parts": []
+    },
+    {
+     "fa": "می‌خوام",
+     "fin": "mikhām",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "note": "āre = yes. Statements fall, questions rise.",
+   "voice": "farid"
+  },
+  {
+   "type": "teach",
+   "id": "l05-06",
+   "audio": "l05-06",
+   "say": "And no is na. Na, nemikhām. Say it out loud.",
+   "en": "No, I don't want to.",
+   "fa": "نه نمی‌خوام",
+   "fin": "na nemikhām",
+   "words": [
+    {
+     "fa": "نه",
+     "fin": "na",
+     "parts": []
+    },
+    {
+     "fa": "نمی‌خوام",
+     "fin": "nemikhām",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "note": "na = no. Note na (no) and ne- (not) are related.",
+   "voice": "farid"
+  },
+  {
+   "type": "prompt",
+   "id": "l05-07",
+   "en": "How do you say: Do you want to eat here??",
+   "fa": "می‌خوای اینجا بخوری؟",
+   "fin": "mikhāy injā bokhori?",
+   "words": [
+    {
+     "fa": "می‌خوای",
+     "fin": "mikhāy",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "y",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    },
+    {
+     "fa": "اینجا",
+     "fin": "injā",
+     "parts": []
+    },
+    {
+     "fa": "بخوری؟",
+     "fin": "bokhori?",
+     "parts": [
+      {
+       "fin": "bo",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "i",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    }
+   ],
+   "audio": "l05-07",
+   "hint": "bokhori: bo + khor + -i (you eat). Raise your voice at the end."
+  },
+  {
+   "type": "prompt",
+   "id": "l05-08",
+   "en": "How do you say: Do you want to go there??",
+   "fa": "می‌خوای اونجا بری؟",
+   "fin": "mikhāy unjā beri?",
+   "words": [
+    {
+     "fa": "می‌خوای",
+     "fin": "mikhāy",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "y",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    },
+    {
+     "fa": "اونجا",
+     "fin": "unjā",
+     "parts": []
+    },
+    {
+     "fa": "بری؟",
+     "fin": "beri?",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "i",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    }
+   ],
+   "audio": "l05-08"
+  },
+  {
+   "type": "prompt",
+   "id": "l05-09",
+   "en": "How do you say: Yes, I want to go there.?",
+   "fa": "آره می‌خوام اونجا برم",
+   "fin": "āre mikhām unjā beram",
+   "words": [
+    {
+     "fa": "آره",
+     "fin": "āre",
+     "parts": []
+    },
+    {
+     "fa": "می‌خوام",
+     "fin": "mikhām",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "اونجا",
+     "fin": "unjā",
+     "parts": []
+    },
+    {
+     "fa": "برم",
+     "fin": "beram",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l05-09",
+   "voice": "farid"
+  },
+  {
+   "type": "teach",
+   "id": "l05-10",
+   "audio": "l05-10",
+   "say": "Now question words. 'Where' is kojā. Say it.",
+   "en": "where",
+   "fa": "کجا",
+   "fin": "kojā",
+   "words": [
+    {
+     "fa": "کجا",
+     "fin": "kojā",
+     "parts": []
+    }
+   ]
+  },
+  {
+   "type": "teach",
+   "id": "l05-11",
+   "audio": "l05-11",
+   "say": "Put kojā at the front of what you already know: kojā mikhāy beri. With a question word, the voice does not need to rise so much. Say it.",
+   "en": "Where do you want to go?",
+   "fa": "کجا می‌خوای بری؟",
+   "fin": "kojā mikhāy beri?",
+   "words": [
+    {
+     "fa": "کجا",
+     "fin": "kojā",
+     "parts": []
+    },
+    {
+     "fa": "می‌خوای",
+     "fin": "mikhāy",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "y",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    },
+    {
+     "fa": "بری؟",
+     "fin": "beri?",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "i",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    }
+   ],
+   "note": "With a question word the sentence is otherwise the same as a statement."
+  },
+  {
+   "type": "prompt",
+   "id": "l05-12",
+   "en": "How do you say: Where do you want to go??",
+   "fa": "کجا می‌خوای بری؟",
+   "fin": "kojā mikhāy beri?",
+   "words": [
+    {
+     "fa": "کجا",
+     "fin": "kojā",
+     "parts": []
+    },
+    {
+     "fa": "می‌خوای",
+     "fin": "mikhāy",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "y",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    },
+    {
+     "fa": "بری؟",
+     "fin": "beri?",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "i",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    }
+   ],
+   "audio": "l05-12"
+  },
+  {
+   "type": "prompt",
+   "id": "l05-13",
+   "en": "How do you say: Where do you want to eat??",
+   "fa": "کجا می‌خوای بخوری؟",
+   "fin": "kojā mikhāy bokhori?",
+   "words": [
+    {
+     "fa": "کجا",
+     "fin": "kojā",
+     "parts": []
+    },
+    {
+     "fa": "می‌خوای",
+     "fin": "mikhāy",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "y",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    },
+    {
+     "fa": "بخوری؟",
+     "fin": "bokhori?",
+     "parts": [
+      {
+       "fin": "bo",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "i",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    }
+   ],
+   "audio": "l05-13"
+  },
+  {
+   "type": "prompt",
+   "id": "l05-14",
+   "en": "How do you say: I want to go there.?",
+   "fa": "می‌خوام اونجا برم",
+   "fin": "mikhām unjā beram",
+   "words": [
+    {
+     "fa": "می‌خوام",
+     "fin": "mikhām",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "اونجا",
+     "fin": "unjā",
+     "parts": []
+    },
+    {
+     "fa": "برم",
+     "fin": "beram",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l05-14",
+   "hint": "This time it is the answer, spoken by the other voice.",
+   "voice": "farid"
+  },
+  {
+   "type": "teach",
+   "id": "l05-15",
+   "audio": "l05-15",
+   "say": "Next, 'what' is chi. Say it.",
+   "en": "what",
+   "fa": "چی",
+   "fin": "chi",
+   "words": [
+    {
+     "fa": "چی",
+     "fin": "chi",
+     "parts": []
+    }
+   ]
+  },
+  {
+   "type": "teach",
+   "id": "l05-16",
+   "audio": "l05-16",
+   "say": "Chi at the front, and the rest you know: chi mikhāy. Say it out loud.",
+   "en": "What do you want?",
+   "fa": "چی می‌خوای؟",
+   "fin": "chi mikhāy?",
+   "words": [
+    {
+     "fa": "چی",
+     "fin": "chi",
+     "parts": []
+    },
+    {
+     "fa": "می‌خوای؟",
+     "fin": "mikhāy?",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "y",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "prompt",
+   "id": "l05-17",
+   "en": "How do you say: What do you want??",
+   "fa": "چی می‌خوای؟",
+   "fin": "chi mikhāy?",
+   "words": [
+    {
+     "fa": "چی",
+     "fin": "chi",
+     "parts": []
+    },
+    {
+     "fa": "می‌خوای؟",
+     "fin": "mikhāy?",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "y",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    }
+   ],
+   "audio": "l05-17"
+  },
+  {
+   "type": "teach",
+   "id": "l05-18",
+   "audio": "l05-18",
+   "say": "Now stretch it. What do you want to eat? Chi mikhāy bokhori. Say it.",
+   "en": "What do you want to eat?",
+   "fa": "چی می‌خوای بخوری؟",
+   "fin": "chi mikhāy bokhori?",
+   "words": [
+    {
+     "fa": "چی",
+     "fin": "chi",
+     "parts": []
+    },
+    {
+     "fa": "می‌خوای",
+     "fin": "mikhāy",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "y",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    },
+    {
+     "fa": "بخوری؟",
+     "fin": "bokhori?",
+     "parts": [
+      {
+       "fin": "bo",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "i",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "prompt",
+   "id": "l05-19",
+   "en": "How do you say: What do you want to eat??",
+   "fa": "چی می‌خوای بخوری؟",
+   "fin": "chi mikhāy bokhori?",
+   "words": [
+    {
+     "fa": "چی",
+     "fin": "chi",
+     "parts": []
+    },
+    {
+     "fa": "می‌خوای",
+     "fin": "mikhāy",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "y",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    },
+    {
+     "fa": "بخوری؟",
+     "fin": "bokhori?",
+     "parts": [
+      {
+       "fin": "bo",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "i",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    }
+   ],
+   "audio": "l05-19"
+  },
+  {
+   "type": "teach",
+   "id": "l05-20",
+   "audio": "l05-20",
+   "say": "'Why' is cherā. Say it.",
+   "en": "why",
+   "fa": "چرا",
+   "fin": "cherā",
+   "words": [
+    {
+     "fa": "چرا",
+     "fin": "cherā",
+     "parts": []
+    }
+   ]
+  },
+  {
+   "type": "teach",
+   "id": "l05-21",
+   "audio": "l05-21",
+   "say": "Cherā, then nemikhāy, 'you don't want', then biyāy. Say the whole thing.",
+   "en": "Why don't you want to come?",
+   "fa": "چرا نمی‌خوای بیای؟",
+   "fin": "cherā nemikhāy biyāy?",
+   "words": [
+    {
+     "fa": "چرا",
+     "fin": "cherā",
+     "parts": []
+    },
+    {
+     "fa": "نمی‌خوای",
+     "fin": "nemikhāy",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "y",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    },
+    {
+     "fa": "بیای؟",
+     "fin": "biyāy?",
+     "parts": [
+      {
+       "fin": "bi",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "y",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    }
+   ],
+   "note": "cherā + nemikhāy + biyāy"
+  },
+  {
+   "type": "prompt",
+   "id": "l05-22",
+   "en": "How do you say: Why don't you want to come??",
+   "fa": "چرا نمی‌خوای بیای؟",
+   "fin": "cherā nemikhāy biyāy?",
+   "words": [
+    {
+     "fa": "چرا",
+     "fin": "cherā",
+     "parts": []
+    },
+    {
+     "fa": "نمی‌خوای",
+     "fin": "nemikhāy",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "y",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    },
+    {
+     "fa": "بیای؟",
+     "fin": "biyāy?",
+     "parts": [
+      {
+       "fin": "bi",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "y",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    }
+   ],
+   "audio": "l05-22"
+  },
+  {
+   "type": "prompt",
+   "id": "l05-23",
+   "en": "How do you say: Why don't you want to go there??",
+   "fa": "چرا نمی‌خوای اونجا بری؟",
+   "fin": "cherā nemikhāy unjā beri?",
+   "words": [
+    {
+     "fa": "چرا",
+     "fin": "cherā",
+     "parts": []
+    },
+    {
+     "fa": "نمی‌خوای",
+     "fin": "nemikhāy",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "y",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    },
+    {
+     "fa": "اونجا",
+     "fin": "unjā",
+     "parts": []
+    },
+    {
+     "fa": "بری؟",
+     "fin": "beri?",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "i",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    }
+   ],
+   "audio": "l05-23"
+  },
+  {
+   "type": "teach",
+   "id": "l05-24",
+   "audio": "l05-24",
+   "say": "'When' is key. Say it. Careful: in speech this word is key, rhyming with 'say'.",
+   "en": "when",
+   "fa": "کی",
+   "fin": "key",
+   "words": [
+    {
+     "fa": "کی",
+     "fin": "key",
+     "parts": []
+    }
+   ]
+  },
+  {
+   "type": "teach",
+   "id": "l05-25",
+   "audio": "l05-25",
+   "say": "Remember the present can talk about the near future. Key miyāy? Say it out loud.",
+   "en": "When are you coming?",
+   "fa": "کی میای؟",
+   "fin": "key miyāy?",
+   "words": [
+    {
+     "fa": "کی",
+     "fin": "key",
+     "parts": []
+    },
+    {
+     "fa": "میای؟",
+     "fin": "miyāy?",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "y",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    }
+   ],
+   "note": "miyāy = mi + yā + y; present used for near future."
+  },
+  {
+   "type": "prompt",
+   "id": "l05-26",
+   "en": "How do you say: When are you coming??",
+   "fa": "کی میای؟",
+   "fin": "key miyāy?",
+   "words": [
+    {
+     "fa": "کی",
+     "fin": "key",
+     "parts": []
+    },
+    {
+     "fa": "میای؟",
+     "fin": "miyāy?",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "y",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    }
+   ],
+   "audio": "l05-26"
+  },
+  {
+   "type": "prompt",
+   "id": "l05-27",
+   "en": "How do you say: When are you going there??",
+   "fa": "کی می‌ری اونجا؟",
+   "fin": "key miri unjā?",
+   "words": [
+    {
+     "fa": "کی",
+     "fin": "key",
+     "parts": []
+    },
+    {
+     "fa": "می‌ری",
+     "fin": "miri",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "i",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    },
+    {
+     "fa": "اونجا؟",
+     "fin": "unjā?",
+     "parts": []
+    }
+   ],
+   "audio": "l05-27"
+  },
+  {
+   "type": "teach",
+   "id": "l05-28",
+   "audio": "l05-28",
+   "say": "Now requests. Mishe means 'is it possible?' or 'can I?'. After it, use the I form you know: mishe biyām? Raise your voice. Say it.",
+   "en": "Can I come?",
+   "fa": "میشه بیام؟",
+   "fin": "mishe biyām?",
+   "words": [
+    {
+     "fa": "میشه",
+     "fin": "mishe",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "sh",
+       "role": "stem",
+       "gloss": "become"
+      },
+      {
+       "fin": "e",
+       "role": "ending",
+       "gloss": "it"
+      }
+     ]
+    },
+    {
+     "fa": "بیام؟",
+     "fin": "biyām?",
+     "parts": [
+      {
+       "fin": "bi",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "note": "mishe literally 'does it become?': mi + sh + e."
+  },
+  {
+   "type": "prompt",
+   "id": "l05-29",
+   "en": "How do you say: Can I come??",
+   "fa": "میشه بیام؟",
+   "fin": "mishe biyām?",
+   "words": [
+    {
+     "fa": "میشه",
+     "fin": "mishe",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "sh",
+       "role": "stem",
+       "gloss": "become"
+      },
+      {
+       "fin": "e",
+       "role": "ending",
+       "gloss": "it"
+      }
+     ]
+    },
+    {
+     "fa": "بیام؟",
+     "fin": "biyām?",
+     "parts": [
+      {
+       "fin": "bi",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l05-29"
+  },
+  {
+   "type": "teach",
+   "id": "l05-30",
+   "audio": "l05-30",
+   "say": "Mishe, injā, bokhoram. Say it.",
+   "en": "Can I eat here?",
+   "fa": "میشه اینجا بخورم؟",
+   "fin": "mishe injā bokhoram?",
+   "words": [
+    {
+     "fa": "میشه",
+     "fin": "mishe",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "sh",
+       "role": "stem",
+       "gloss": "become"
+      },
+      {
+       "fin": "e",
+       "role": "ending",
+       "gloss": "it"
+      }
+     ]
+    },
+    {
+     "fa": "اینجا",
+     "fin": "injā",
+     "parts": []
+    },
+    {
+     "fa": "بخورم؟",
+     "fin": "bokhoram?",
+     "parts": [
+      {
+       "fin": "bo",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "prompt",
+   "id": "l05-31",
+   "en": "How do you say: Can I eat here??",
+   "fa": "میشه اینجا بخورم؟",
+   "fin": "mishe injā bokhoram?",
+   "words": [
+    {
+     "fa": "میشه",
+     "fin": "mishe",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "sh",
+       "role": "stem",
+       "gloss": "become"
+      },
+      {
+       "fin": "e",
+       "role": "ending",
+       "gloss": "it"
+      }
+     ]
+    },
+    {
+     "fa": "اینجا",
+     "fin": "injā",
+     "parts": []
+    },
+    {
+     "fa": "بخورم؟",
+     "fin": "bokhoram?",
+     "parts": [
+      {
+       "fin": "bo",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l05-31"
+  },
+  {
+   "type": "teach",
+   "id": "l05-32",
+   "audio": "l05-32",
+   "say": "To be polite add lotfan, 'please', in front. Say it.",
+   "en": "Please, can I eat here?",
+   "fa": "لطفا میشه اینجا بخورم؟",
+   "fin": "lotfan mishe injā bokhoram?",
+   "words": [
+    {
+     "fa": "لطفا",
+     "fin": "lotfan",
+     "parts": []
+    },
+    {
+     "fa": "میشه",
+     "fin": "mishe",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "sh",
+       "role": "stem",
+       "gloss": "become"
+      },
+      {
+       "fin": "e",
+       "role": "ending",
+       "gloss": "it"
+      }
+     ]
+    },
+    {
+     "fa": "اینجا",
+     "fin": "injā",
+     "parts": []
+    },
+    {
+     "fa": "بخورم؟",
+     "fin": "bokhoram?",
+     "parts": [
+      {
+       "fin": "bo",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "note": "lotfan = please."
+  },
+  {
+   "type": "prompt",
+   "id": "l05-33",
+   "en": "How do you say: Can I go there??",
+   "fa": "میشه اونجا برم؟",
+   "fin": "mishe unjā beram?",
+   "words": [
+    {
+     "fa": "میشه",
+     "fin": "mishe",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "sh",
+       "role": "stem",
+       "gloss": "become"
+      },
+      {
+       "fin": "e",
+       "role": "ending",
+       "gloss": "it"
+      }
+     ]
+    },
+    {
+     "fa": "اونجا",
+     "fin": "unjā",
+     "parts": []
+    },
+    {
+     "fa": "برم؟",
+     "fin": "beram?",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l05-33"
+  },
+  {
+   "type": "teach",
+   "id": "l05-34",
+   "audio": "l05-34",
+   "say": "Now other people, briefly. For 'he' or 'she' the ending is -d or -e. Key miyād? When is he coming? Say it.",
+   "en": "When is he coming?",
+   "fa": "کی میاد؟",
+   "fin": "key miyād?",
+   "words": [
+    {
+     "fa": "کی",
+     "fin": "key",
+     "parts": []
+    },
+    {
+     "fa": "میاد؟",
+     "fin": "miyād?",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "d",
+       "role": "ending",
+       "gloss": "he / she"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "prompt",
+   "id": "l05-35",
+   "en": "How do you say: Where is he going??",
+   "fa": "کجا می‌ره؟",
+   "fin": "kojā mire?",
+   "words": [
+    {
+     "fa": "کجا",
+     "fin": "kojā",
+     "parts": []
+    },
+    {
+     "fa": "می‌ره؟",
+     "fin": "mire?",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "e",
+       "role": "ending",
+       "gloss": "he / she"
+      }
+     ]
+    }
+   ],
+   "audio": "l05-35"
+  },
+  {
+   "type": "teach",
+   "id": "l05-36",
+   "audio": "l05-36",
+   "say": "He or she: mikhād ... bokhore. Say it.",
+   "en": "Does she want to eat here?",
+   "fa": "می‌خواد اینجا بخوره؟",
+   "fin": "mikhād injā bokhore?",
+   "words": [
+    {
+     "fa": "می‌خواد",
+     "fin": "mikhād",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "d",
+       "role": "ending",
+       "gloss": "he / she"
+      }
+     ]
+    },
+    {
+     "fa": "اینجا",
+     "fin": "injā",
+     "parts": []
+    },
+    {
+     "fa": "بخوره؟",
+     "fin": "bokhore?",
+     "parts": [
+      {
+       "fin": "bo",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "e",
+       "role": "ending",
+       "gloss": "he / she"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "prompt",
+   "id": "l05-37",
+   "en": "How do you say: Why doesn't he want to come??",
+   "fa": "چرا نمی‌خواد بیاد؟",
+   "fin": "cherā nemikhād biyād?",
+   "words": [
+    {
+     "fa": "چرا",
+     "fin": "cherā",
+     "parts": []
+    },
+    {
+     "fa": "نمی‌خواد",
+     "fin": "nemikhād",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "d",
+       "role": "ending",
+       "gloss": "he / she"
+      }
+     ]
+    },
+    {
+     "fa": "بیاد؟",
+     "fin": "biyād?",
+     "parts": [
+      {
+       "fin": "bi",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "d",
+       "role": "ending",
+       "gloss": "he / she"
+      }
+     ]
+    }
+   ],
+   "audio": "l05-37"
+  },
+  {
+   "type": "teach",
+   "id": "l05-38",
+   "audio": "l05-38",
+   "say": "And 'we' ends in -im or -ym. Kojā mikhāym berim? Say it.",
+   "en": "Where do we want to go?",
+   "fa": "کجا می‌خوایم بریم؟",
+   "fin": "kojā mikhāym berim?",
+   "words": [
+    {
+     "fa": "کجا",
+     "fin": "kojā",
+     "parts": []
+    },
+    {
+     "fa": "می‌خوایم",
+     "fin": "mikhāym",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "ym",
+       "role": "ending",
+       "gloss": "we"
+      }
+     ]
+    },
+    {
+     "fa": "بریم؟",
+     "fin": "berim?",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "im",
+       "role": "ending",
+       "gloss": "we"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "prompt",
+   "id": "l05-39",
+   "en": "How do you say: Do we want to eat here??",
+   "fa": "می‌خوایم اینجا بخوریم؟",
+   "fin": "mikhāym injā bokhorim?",
+   "words": [
+    {
+     "fa": "می‌خوایم",
+     "fin": "mikhāym",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "ym",
+       "role": "ending",
+       "gloss": "we"
+      }
+     ]
+    },
+    {
+     "fa": "اینجا",
+     "fin": "injā",
+     "parts": []
+    },
+    {
+     "fa": "بخوریم؟",
+     "fin": "bokhorim?",
+     "parts": [
+      {
+       "fin": "bo",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "im",
+       "role": "ending",
+       "gloss": "we"
+      }
+     ]
+    }
+   ],
+   "audio": "l05-39"
+  },
+  {
+   "type": "review",
+   "id": "l05-47",
+   "say": "Now mix them yourself. Say each one aloud, with your voice rising for yes/no questions, before you reveal it.",
+   "items": [
+    {
+     "type": "prompt",
+     "id": "l05-40",
+     "en": "Where do you want to go?",
+     "fa": "کجا می‌خوای بری؟",
+     "fin": "kojā mikhāy beri?",
+     "words": [
+      {
+       "fa": "کجا",
+       "fin": "kojā",
+       "parts": []
+      },
+      {
+       "fa": "می‌خوای",
+       "fin": "mikhāy",
+       "parts": [
+        {
+         "fin": "mi",
+         "role": "prefix",
+         "gloss": "ongoing / present"
+        },
+        {
+         "fin": "khā",
+         "role": "stem",
+         "gloss": "want"
+        },
+        {
+         "fin": "y",
+         "role": "ending",
+         "gloss": "you"
+        }
+       ]
+      },
+      {
+       "fa": "بری؟",
+       "fin": "beri?",
+       "parts": [
+        {
+         "fin": "be",
+         "role": "prefix",
+         "gloss": "'to' (subjunctive)"
+        },
+        {
+         "fin": "r",
+         "role": "stem",
+         "gloss": "go"
+        },
+        {
+         "fin": "i",
+         "role": "ending",
+         "gloss": "you"
+        }
+       ]
+      }
+     ],
+     "audio": "l05-40"
+    },
+    {
+     "type": "prompt",
+     "id": "l05-41",
+     "en": "Why don't you want to come?",
+     "fa": "چرا نمی‌خوای بیای؟",
+     "fin": "cherā nemikhāy biyāy?",
+     "words": [
+      {
+       "fa": "چرا",
+       "fin": "cherā",
+       "parts": []
+      },
+      {
+       "fa": "نمی‌خوای",
+       "fin": "nemikhāy",
+       "parts": [
+        {
+         "fin": "ne",
+         "role": "neg",
+         "gloss": "not"
+        },
+        {
+         "fin": "mi",
+         "role": "prefix",
+         "gloss": "ongoing / present"
+        },
+        {
+         "fin": "khā",
+         "role": "stem",
+         "gloss": "want"
+        },
+        {
+         "fin": "y",
+         "role": "ending",
+         "gloss": "you"
+        }
+       ]
+      },
+      {
+       "fa": "بیای؟",
+       "fin": "biyāy?",
+       "parts": [
+        {
+         "fin": "bi",
+         "role": "prefix",
+         "gloss": "'to' (subjunctive)"
+        },
+        {
+         "fin": "yā",
+         "role": "stem",
+         "gloss": "come"
+        },
+        {
+         "fin": "y",
+         "role": "ending",
+         "gloss": "you"
+        }
+       ]
+      }
+     ],
+     "audio": "l05-41"
+    },
+    {
+     "type": "prompt",
+     "id": "l05-42",
+     "en": "Can I eat here?",
+     "fa": "میشه اینجا بخورم؟",
+     "fin": "mishe injā bokhoram?",
+     "words": [
+      {
+       "fa": "میشه",
+       "fin": "mishe",
+       "parts": [
+        {
+         "fin": "mi",
+         "role": "prefix",
+         "gloss": "ongoing / present"
+        },
+        {
+         "fin": "sh",
+         "role": "stem",
+         "gloss": "become"
+        },
+        {
+         "fin": "e",
+         "role": "ending",
+         "gloss": "it"
+        }
+       ]
+      },
+      {
+       "fa": "اینجا",
+       "fin": "injā",
+       "parts": []
+      },
+      {
+       "fa": "بخورم؟",
+       "fin": "bokhoram?",
+       "parts": [
+        {
+         "fin": "bo",
+         "role": "prefix",
+         "gloss": "'to' (subjunctive)"
+        },
+        {
+         "fin": "khor",
+         "role": "stem",
+         "gloss": "eat"
+        },
+        {
+         "fin": "am",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      }
+     ],
+     "audio": "l05-42"
+    },
+    {
+     "type": "prompt",
+     "id": "l05-43",
+     "en": "Do you want to eat there?",
+     "fa": "می‌خوای اونجا بخوری؟",
+     "fin": "mikhāy unjā bokhori?",
+     "words": [
+      {
+       "fa": "می‌خوای",
+       "fin": "mikhāy",
+       "parts": [
+        {
+         "fin": "mi",
+         "role": "prefix",
+         "gloss": "ongoing / present"
+        },
+        {
+         "fin": "khā",
+         "role": "stem",
+         "gloss": "want"
+        },
+        {
+         "fin": "y",
+         "role": "ending",
+         "gloss": "you"
+        }
+       ]
+      },
+      {
+       "fa": "اونجا",
+       "fin": "unjā",
+       "parts": []
+      },
+      {
+       "fa": "بخوری؟",
+       "fin": "bokhori?",
+       "parts": [
+        {
+         "fin": "bo",
+         "role": "prefix",
+         "gloss": "'to' (subjunctive)"
+        },
+        {
+         "fin": "khor",
+         "role": "stem",
+         "gloss": "eat"
+        },
+        {
+         "fin": "i",
+         "role": "ending",
+         "gloss": "you"
+        }
+       ]
+      }
+     ],
+     "audio": "l05-43"
+    },
+    {
+     "type": "prompt",
+     "id": "l05-44",
+     "en": "When are you coming?",
+     "fa": "کی میای؟",
+     "fin": "key miyāy?",
+     "words": [
+      {
+       "fa": "کی",
+       "fin": "key",
+       "parts": []
+      },
+      {
+       "fa": "میای؟",
+       "fin": "miyāy?",
+       "parts": [
+        {
+         "fin": "mi",
+         "role": "prefix",
+         "gloss": "ongoing / present"
+        },
+        {
+         "fin": "yā",
+         "role": "stem",
+         "gloss": "come"
+        },
+        {
+         "fin": "y",
+         "role": "ending",
+         "gloss": "you"
+        }
+       ]
+      }
+     ],
+     "audio": "l05-44"
+    },
+    {
+     "type": "prompt",
+     "id": "l05-45",
+     "en": "What do you want?",
+     "fa": "چی می‌خوای؟",
+     "fin": "chi mikhāy?",
+     "words": [
+      {
+       "fa": "چی",
+       "fin": "chi",
+       "parts": []
+      },
+      {
+       "fa": "می‌خوای؟",
+       "fin": "mikhāy?",
+       "parts": [
+        {
+         "fin": "mi",
+         "role": "prefix",
+         "gloss": "ongoing / present"
+        },
+        {
+         "fin": "khā",
+         "role": "stem",
+         "gloss": "want"
+        },
+        {
+         "fin": "y",
+         "role": "ending",
+         "gloss": "you"
+        }
+       ]
+      }
+     ],
+     "audio": "l05-45"
+    },
+    {
+     "type": "prompt",
+     "id": "l05-46",
+     "en": "No, I don't want to go there.",
+     "fa": "نه نمی‌خوام اونجا برم",
+     "fin": "na nemikhām unjā beram",
+     "words": [
+      {
+       "fa": "نه",
+       "fin": "na",
+       "parts": []
+      },
+      {
+       "fa": "نمی‌خوام",
+       "fin": "nemikhām",
+       "parts": [
+        {
+         "fin": "ne",
+         "role": "neg",
+         "gloss": "not"
+        },
+        {
+         "fin": "mi",
+         "role": "prefix",
+         "gloss": "ongoing / present"
+        },
+        {
+         "fin": "khā",
+         "role": "stem",
+         "gloss": "want"
+        },
+        {
+         "fin": "m",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      },
+      {
+       "fa": "اونجا",
+       "fin": "unjā",
+       "parts": []
+      },
+      {
+       "fa": "برم",
+       "fin": "beram",
+       "parts": [
+        {
+         "fin": "be",
+         "role": "prefix",
+         "gloss": "'to' (subjunctive)"
+        },
+        {
+         "fin": "r",
+         "role": "stem",
+         "gloss": "go"
+        },
+        {
+         "fin": "am",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      }
+     ],
+     "audio": "l05-46",
+     "voice": "farid"
+    }
+   ]
+  }
+ ]
+}

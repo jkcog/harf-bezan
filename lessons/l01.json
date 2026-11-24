@@ -1,0 +1,1222 @@
+{
+ "id": "l01",
+ "title": "I want to…",
+ "goal": "Say what you want, don't want and can't do, with go / come / eat, here and there. No pronoun or 'to' needed.",
+ "steps": [
+  {
+   "type": "teach",
+   "id": "l01-01",
+   "audio": "l01-01",
+   "say": "Persian doesn't need a separate word for 'I'. It's built into the end of the verb: the -m on the end means 'I'. Listen, then say it out loud.",
+   "en": "I want",
+   "fa": "می‌خوام",
+   "fin": "mikhām",
+   "words": [
+    {
+     "fa": "می‌خوام",
+     "fin": "mikhām",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "note": "mi- + khā + -m: 'ongoing' + 'want' + 'I'."
+  },
+  {
+   "type": "prompt",
+   "id": "l01-02",
+   "en": "Say: I want",
+   "fa": "می‌خوام",
+   "fin": "mikhām",
+   "words": [
+    {
+     "fa": "می‌خوام",
+     "fin": "mikhām",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l01-02"
+  },
+  {
+   "type": "teach",
+   "id": "l01-03",
+   "audio": "l01-03",
+   "say": "Now 'go'. Notice be- at the start, and -am on the end for 'I'. Say it out loud.",
+   "en": "to go (literally 'that I go')",
+   "fa": "برم",
+   "fin": "beram",
+   "words": [
+    {
+     "fa": "برم",
+     "fin": "beram",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "note": "The be- form is what Persian uses where English says 'to'."
+  },
+  {
+   "type": "teach",
+   "id": "l01-04",
+   "audio": "l01-04",
+   "say": "Put them side by side. There's no word for 'to'. Just 'I want, I go'. Say it before you tap.",
+   "en": "I want to go",
+   "fa": "می‌خوام برم",
+   "fin": "mikhām beram",
+   "words": [
+    {
+     "fa": "می‌خوام",
+     "fin": "mikhām",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "برم",
+     "fin": "beram",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "note": "Two verbs, nothing in between."
+  },
+  {
+   "type": "prompt",
+   "id": "l01-05",
+   "en": "How do you say: I want to go?",
+   "fa": "می‌خوام برم",
+   "fin": "mikhām beram",
+   "words": [
+    {
+     "fa": "می‌خوام",
+     "fin": "mikhām",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "برم",
+     "fin": "beram",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l01-05"
+  },
+  {
+   "type": "teach",
+   "id": "l01-06",
+   "audio": "l01-06",
+   "say": "To make a verb negative, put ne- in front. That's all.",
+   "en": "I don't want",
+   "fa": "نمی‌خوام",
+   "fin": "nemikhām",
+   "words": [
+    {
+     "fa": "نمی‌خوام",
+     "fin": "nemikhām",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "note": "ne- + mi- + khā + -m"
+  },
+  {
+   "type": "prompt",
+   "id": "l01-07",
+   "en": "How do you say: I don't want?",
+   "fa": "نمی‌خوام",
+   "fin": "nemikhām",
+   "words": [
+    {
+     "fa": "نمی‌خوام",
+     "fin": "nemikhām",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l01-07"
+  },
+  {
+   "type": "prompt",
+   "id": "l01-08",
+   "en": "How do you say: I don't want to go?",
+   "fa": "نمی‌خوام برم",
+   "fin": "nemikhām beram",
+   "words": [
+    {
+     "fa": "نمی‌خوام",
+     "fin": "nemikhām",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "برم",
+     "fin": "beram",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l01-08",
+   "hint": "Which half changes: 'want' or 'go'?"
+  },
+  {
+   "type": "teach",
+   "id": "l01-09",
+   "audio": "l01-09",
+   "say": "'Come' follows the same shape as 'go': a prefix, the stem, and -m for 'I'.",
+   "en": "to come (literally 'that I come')",
+   "fa": "بیام",
+   "fin": "biyām",
+   "words": [
+    {
+     "fa": "بیام",
+     "fin": "biyām",
+     "parts": [
+      {
+       "fin": "bi",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "note": "bi- + yā + -m"
+  },
+  {
+   "type": "prompt",
+   "id": "l01-10",
+   "en": "How do you say: I want to come?",
+   "fa": "می‌خوام بیام",
+   "fin": "mikhām biyām",
+   "words": [
+    {
+     "fa": "می‌خوام",
+     "fin": "mikhām",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "بیام",
+     "fin": "biyām",
+     "parts": [
+      {
+       "fin": "bi",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l01-10"
+  },
+  {
+   "type": "prompt",
+   "id": "l01-11",
+   "en": "How do you say: I don't want to come?",
+   "fa": "نمی‌خوام بیام",
+   "fin": "nemikhām biyām",
+   "words": [
+    {
+     "fa": "نمی‌خوام",
+     "fin": "nemikhām",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "بیام",
+     "fin": "biyām",
+     "parts": [
+      {
+       "fin": "bi",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l01-11"
+  },
+  {
+   "type": "teach",
+   "id": "l01-12",
+   "audio": "l01-12",
+   "say": "One small thing: before an o sound, be- becomes bo-. It's just easier to say. Listen.",
+   "en": "to eat (literally 'that I eat')",
+   "fa": "بخورم",
+   "fin": "bokhoram",
+   "words": [
+    {
+     "fa": "بخورم",
+     "fin": "bokhoram",
+     "parts": [
+      {
+       "fin": "bo",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "note": "be- → bo- before the 'o' in khor."
+  },
+  {
+   "type": "prompt",
+   "id": "l01-13",
+   "en": "How do you say: I want to eat?",
+   "fa": "می‌خوام بخورم",
+   "fin": "mikhām bokhoram",
+   "words": [
+    {
+     "fa": "می‌خوام",
+     "fin": "mikhām",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "بخورم",
+     "fin": "bokhoram",
+     "parts": [
+      {
+       "fin": "bo",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l01-13"
+  },
+  {
+   "type": "prompt",
+   "id": "l01-14",
+   "en": "How do you say: I don't want to eat?",
+   "fa": "نمی‌خوام بخورم",
+   "fin": "nemikhām bokhoram",
+   "words": [
+    {
+     "fa": "نمی‌خوام",
+     "fin": "nemikhām",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "بخورم",
+     "fin": "bokhoram",
+     "parts": [
+      {
+       "fin": "bo",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l01-14"
+  },
+  {
+   "type": "teach",
+   "id": "l01-15",
+   "audio": "l01-15",
+   "say": "Two small words. Persian puts them before the verb.",
+   "en": "here",
+   "fa": "اینجا",
+   "fin": "injā",
+   "words": [
+    {
+     "fa": "اینجا",
+     "fin": "injā",
+     "parts": []
+    }
+   ]
+  },
+  {
+   "type": "teach",
+   "id": "l01-16",
+   "audio": "l01-16",
+   "say": null,
+   "en": "there",
+   "fa": "اونجا",
+   "fin": "unjā",
+   "words": [
+    {
+     "fa": "اونجا",
+     "fin": "unjā",
+     "parts": []
+    }
+   ]
+  },
+  {
+   "type": "prompt",
+   "id": "l01-17",
+   "en": "How do you say: I want to come here?",
+   "fa": "می‌خوام بیام اینجا",
+   "fin": "mikhām biyām injā",
+   "words": [
+    {
+     "fa": "می‌خوام",
+     "fin": "mikhām",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "بیام",
+     "fin": "biyām",
+     "parts": [
+      {
+       "fin": "bi",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "اینجا",
+     "fin": "injā",
+     "parts": []
+    }
+   ],
+   "audio": "l01-17"
+  },
+  {
+   "type": "prompt",
+   "id": "l01-18",
+   "en": "How do you say: I don't want to go there?",
+   "fa": "نمی‌خوام برم اونجا",
+   "fin": "nemikhām beram unjā",
+   "words": [
+    {
+     "fa": "نمی‌خوام",
+     "fin": "nemikhām",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "برم",
+     "fin": "beram",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "اونجا",
+     "fin": "unjā",
+     "parts": []
+    }
+   ],
+   "audio": "l01-18"
+  },
+  {
+   "type": "teach",
+   "id": "l01-19",
+   "audio": "l01-19",
+   "say": "Here's the payoff. Swap 'want' for 'can' and everything else stays exactly the same.",
+   "en": "I can",
+   "fa": "می‌تونم",
+   "fin": "mitūnam",
+   "words": [
+    {
+     "fa": "می‌تونم",
+     "fin": "mitūnam",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "tūn",
+       "role": "stem",
+       "gloss": "can"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "note": "mi- + tūn + -am. Same pattern as mikhām."
+  },
+  {
+   "type": "prompt",
+   "id": "l01-20",
+   "en": "How do you say: I can go?",
+   "fa": "می‌تونم برم",
+   "fin": "mitūnam beram",
+   "words": [
+    {
+     "fa": "می‌تونم",
+     "fin": "mitūnam",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "tūn",
+       "role": "stem",
+       "gloss": "can"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "برم",
+     "fin": "beram",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l01-20"
+  },
+  {
+   "type": "prompt",
+   "id": "l01-21",
+   "en": "How do you say: I can't come?",
+   "fa": "نمی‌تونم بیام",
+   "fin": "nemitūnam biyām",
+   "words": [
+    {
+     "fa": "نمی‌تونم",
+     "fin": "nemitūnam",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "tūn",
+       "role": "stem",
+       "gloss": "can"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "بیام",
+     "fin": "biyām",
+     "parts": [
+      {
+       "fin": "bi",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l01-21"
+  },
+  {
+   "type": "prompt",
+   "id": "l01-22",
+   "en": "How do you say: I can't eat here?",
+   "fa": "نمی‌تونم اینجا بخورم",
+   "fin": "nemitūnam injā bokhoram",
+   "words": [
+    {
+     "fa": "نمی‌تونم",
+     "fin": "nemitūnam",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "tūn",
+       "role": "stem",
+       "gloss": "can"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "اینجا",
+     "fin": "injā",
+     "parts": []
+    },
+    {
+     "fa": "بخورم",
+     "fin": "bokhoram",
+     "parts": [
+      {
+       "fin": "bo",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l01-22",
+   "hint": "Place words go before the verb that follows."
+  },
+  {
+   "type": "review",
+   "id": "l01-27",
+   "say": "Now mix them yourself. Say each one before you reveal it.",
+   "items": [
+    {
+     "type": "prompt",
+     "id": "l01-23",
+     "en": "I don't want to go there",
+     "fa": "نمی‌خوام اونجا برم",
+     "fin": "nemikhām unjā beram",
+     "words": [
+      {
+       "fa": "نمی‌خوام",
+       "fin": "nemikhām",
+       "parts": [
+        {
+         "fin": "ne",
+         "role": "neg",
+         "gloss": "not"
+        },
+        {
+         "fin": "mi",
+         "role": "prefix",
+         "gloss": "ongoing / present"
+        },
+        {
+         "fin": "khā",
+         "role": "stem",
+         "gloss": "want"
+        },
+        {
+         "fin": "m",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      },
+      {
+       "fa": "اونجا",
+       "fin": "unjā",
+       "parts": []
+      },
+      {
+       "fa": "برم",
+       "fin": "beram",
+       "parts": [
+        {
+         "fin": "be",
+         "role": "prefix",
+         "gloss": "'to' (subjunctive)"
+        },
+        {
+         "fin": "r",
+         "role": "stem",
+         "gloss": "go"
+        },
+        {
+         "fin": "am",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      }
+     ],
+     "audio": "l01-23"
+    },
+    {
+     "type": "prompt",
+     "id": "l01-24",
+     "en": "I can eat here",
+     "fa": "می‌تونم اینجا بخورم",
+     "fin": "mitūnam injā bokhoram",
+     "words": [
+      {
+       "fa": "می‌تونم",
+       "fin": "mitūnam",
+       "parts": [
+        {
+         "fin": "mi",
+         "role": "prefix",
+         "gloss": "ongoing / present"
+        },
+        {
+         "fin": "tūn",
+         "role": "stem",
+         "gloss": "can"
+        },
+        {
+         "fin": "am",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      },
+      {
+       "fa": "اینجا",
+       "fin": "injā",
+       "parts": []
+      },
+      {
+       "fa": "بخورم",
+       "fin": "bokhoram",
+       "parts": [
+        {
+         "fin": "bo",
+         "role": "prefix",
+         "gloss": "'to' (subjunctive)"
+        },
+        {
+         "fin": "khor",
+         "role": "stem",
+         "gloss": "eat"
+        },
+        {
+         "fin": "am",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      }
+     ],
+     "audio": "l01-24"
+    },
+    {
+     "type": "prompt",
+     "id": "l01-25",
+     "en": "I want to come there",
+     "fa": "می‌خوام اونجا بیام",
+     "fin": "mikhām unjā biyām",
+     "words": [
+      {
+       "fa": "می‌خوام",
+       "fin": "mikhām",
+       "parts": [
+        {
+         "fin": "mi",
+         "role": "prefix",
+         "gloss": "ongoing / present"
+        },
+        {
+         "fin": "khā",
+         "role": "stem",
+         "gloss": "want"
+        },
+        {
+         "fin": "m",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      },
+      {
+       "fa": "اونجا",
+       "fin": "unjā",
+       "parts": []
+      },
+      {
+       "fa": "بیام",
+       "fin": "biyām",
+       "parts": [
+        {
+         "fin": "bi",
+         "role": "prefix",
+         "gloss": "'to' (subjunctive)"
+        },
+        {
+         "fin": "yā",
+         "role": "stem",
+         "gloss": "come"
+        },
+        {
+         "fin": "m",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      }
+     ],
+     "audio": "l01-25"
+    },
+    {
+     "type": "prompt",
+     "id": "l01-26",
+     "en": "I can't go",
+     "fa": "نمی‌تونم برم",
+     "fin": "nemitūnam beram",
+     "words": [
+      {
+       "fa": "نمی‌تونم",
+       "fin": "nemitūnam",
+       "parts": [
+        {
+         "fin": "ne",
+         "role": "neg",
+         "gloss": "not"
+        },
+        {
+         "fin": "mi",
+         "role": "prefix",
+         "gloss": "ongoing / present"
+        },
+        {
+         "fin": "tūn",
+         "role": "stem",
+         "gloss": "can"
+        },
+        {
+         "fin": "am",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      },
+      {
+       "fa": "برم",
+       "fin": "beram",
+       "parts": [
+        {
+         "fin": "be",
+         "role": "prefix",
+         "gloss": "'to' (subjunctive)"
+        },
+        {
+         "fin": "r",
+         "role": "stem",
+         "gloss": "go"
+        },
+        {
+         "fin": "am",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      }
+     ],
+     "audio": "l01-26"
+    }
+   ]
+  }
+ ]
+}

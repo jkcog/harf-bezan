@@ -1,0 +1,1798 @@
+{
+ "id": "l04",
+ "title": "Yesterday",
+ "goal": "Talk about the past: I wanted, I went, I came, I ate, I didn't, I couldn't, and yesterday or last night.",
+ "steps": [
+  {
+   "type": "teach",
+   "id": "l04-01",
+   "audio": "l04-01",
+   "say": "Today we go back in time. You already know mikhām, I want. To say I wanted, the ending -am stays, mi- stays, and the middle changes: khā becomes khāst. Say it out loud: mikhāstam.",
+   "en": "I wanted",
+   "fa": "می‌خواستم",
+   "fin": "mikhāstam",
+   "words": [
+    {
+     "fa": "می‌خواستم",
+     "fin": "mikhāstam",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing"
+      },
+      {
+       "fin": "khāst",
+       "role": "stem",
+       "gloss": "wanted (past stem)"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "note": "mi- + khāst + -am. The past ending for 'I' is -am, like beram. The stem khāst is the past stem of 'want'."
+  },
+  {
+   "type": "prompt",
+   "id": "l04-02",
+   "en": "How do you say: I wanted?",
+   "fa": "می‌خواستم",
+   "fin": "mikhāstam",
+   "words": [
+    {
+     "fa": "می‌خواستم",
+     "fin": "mikhāstam",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing"
+      },
+      {
+       "fin": "khāst",
+       "role": "stem",
+       "gloss": "wanted (past stem)"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l04-02"
+  },
+  {
+   "type": "teach",
+   "id": "l04-03",
+   "audio": "l04-03",
+   "say": "Now reuse lesson one. You already say mikhām beram, I want to go. Put the past want in front and nothing else changes: mikhāstam beram. I wanted to go. Say it.",
+   "en": "I wanted to go",
+   "fa": "می‌خواستم برم",
+   "fin": "mikhāstam beram",
+   "words": [
+    {
+     "fa": "می‌خواستم",
+     "fin": "mikhāstam",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing"
+      },
+      {
+       "fin": "khāst",
+       "role": "stem",
+       "gloss": "wanted (past stem)"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "برم",
+     "fin": "beram",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "prompt",
+   "id": "l04-04",
+   "en": "How do you say: I want to go?",
+   "fa": "می‌خوام برم",
+   "fin": "mikhām beram",
+   "words": [
+    {
+     "fa": "می‌خوام",
+     "fin": "mikhām",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "برم",
+     "fin": "beram",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l04-04"
+  },
+  {
+   "type": "prompt",
+   "id": "l04-05",
+   "en": "How do you say: I wanted to go?",
+   "fa": "می‌خواستم برم",
+   "fin": "mikhāstam beram",
+   "words": [
+    {
+     "fa": "می‌خواستم",
+     "fin": "mikhāstam",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing"
+      },
+      {
+       "fin": "khāst",
+       "role": "stem",
+       "gloss": "wanted (past stem)"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "برم",
+     "fin": "beram",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l04-05"
+  },
+  {
+   "type": "teach",
+   "id": "l04-06",
+   "audio": "l04-06",
+   "say": "To say I didn't want, you do what you did before: ne- goes in front of mi-. Nemikhāstam. Say it, then add beram.",
+   "en": "I didn't want to go",
+   "fa": "نمی‌خواستم برم",
+   "fin": "nemikhāstam beram",
+   "words": [
+    {
+     "fa": "نمی‌خواستم",
+     "fin": "nemikhāstam",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing"
+      },
+      {
+       "fin": "khāst",
+       "role": "stem",
+       "gloss": "wanted (past stem)"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "برم",
+     "fin": "beram",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "prompt",
+   "id": "l04-07",
+   "en": "How do you say: I didn't want to go?",
+   "fa": "نمی‌خواستم برم",
+   "fin": "nemikhāstam beram",
+   "words": [
+    {
+     "fa": "نمی‌خواستم",
+     "fin": "nemikhāstam",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing"
+      },
+      {
+       "fin": "khāst",
+       "role": "stem",
+       "gloss": "wanted (past stem)"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "برم",
+     "fin": "beram",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l04-07"
+  },
+  {
+   "type": "teach",
+   "id": "l04-08",
+   "audio": "l04-08",
+   "say": "Now the real past, with no wanting. 'Go' has a past stem: raft. Add -am for I: raftam. No mi-, no be-. Just the stem and the ending. Say it.",
+   "en": "I went",
+   "fa": "رفتم",
+   "fin": "raftam",
+   "words": [
+    {
+     "fa": "رفتم",
+     "fin": "raftam",
+     "parts": [
+      {
+       "fin": "raft",
+       "role": "stem",
+       "gloss": "went (past stem)"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "note": "raft + -am. Compare beram (be- + r + am): the past stem raft is different from the present stem r."
+  },
+  {
+   "type": "prompt",
+   "id": "l04-09",
+   "en": "How do you say: I went?",
+   "fa": "رفتم",
+   "fin": "raftam",
+   "words": [
+    {
+     "fa": "رفتم",
+     "fin": "raftam",
+     "parts": [
+      {
+       "fin": "raft",
+       "role": "stem",
+       "gloss": "went (past stem)"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l04-09"
+  },
+  {
+   "type": "teach",
+   "id": "l04-10",
+   "audio": "l04-10",
+   "say": "Two time words. Dirūz means yesterday. Say dirūz raftam.",
+   "en": "Yesterday I went",
+   "fa": "دیروز رفتم",
+   "fin": "dirūz raftam",
+   "words": [
+    {
+     "fa": "دیروز",
+     "fin": "dirūz",
+     "parts": []
+    },
+    {
+     "fa": "رفتم",
+     "fin": "raftam",
+     "parts": [
+      {
+       "fin": "raft",
+       "role": "stem",
+       "gloss": "went (past stem)"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "prompt",
+   "id": "l04-11",
+   "en": "How do you say: Yesterday I went?",
+   "fa": "دیروز رفتم",
+   "fin": "dirūz raftam",
+   "words": [
+    {
+     "fa": "دیروز",
+     "fin": "dirūz",
+     "parts": []
+    },
+    {
+     "fa": "رفتم",
+     "fin": "raftam",
+     "parts": [
+      {
+       "fin": "raft",
+       "role": "stem",
+       "gloss": "went (past stem)"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l04-11"
+  },
+  {
+   "type": "teach",
+   "id": "l04-12",
+   "audio": "l04-12",
+   "say": "Now contrast it with lesson three. Fardā miram, tomorrow I'm going. Past: raftam. Present as future: miram. Say the whole thing: dirūz raftam, fardā miram.",
+   "en": "Yesterday I went, tomorrow I'm going",
+   "fa": "دیروز رفتم فردا می‌رم",
+   "fin": "dirūz raftam fardā miram",
+   "words": [
+    {
+     "fa": "دیروز",
+     "fin": "dirūz",
+     "parts": []
+    },
+    {
+     "fa": "رفتم",
+     "fin": "raftam",
+     "parts": [
+      {
+       "fin": "raft",
+       "role": "stem",
+       "gloss": "went (past stem)"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "فردا",
+     "fin": "fardā",
+     "parts": []
+    },
+    {
+     "fa": "می‌رم",
+     "fin": "miram",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "prompt",
+   "id": "l04-13",
+   "en": "How do you say: Yesterday I went, tomorrow I'm going?",
+   "fa": "دیروز رفتم فردا می‌رم",
+   "fin": "dirūz raftam fardā miram",
+   "words": [
+    {
+     "fa": "دیروز",
+     "fin": "dirūz",
+     "parts": []
+    },
+    {
+     "fa": "رفتم",
+     "fin": "raftam",
+     "parts": [
+      {
+       "fin": "raft",
+       "role": "stem",
+       "gloss": "went (past stem)"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "فردا",
+     "fin": "fardā",
+     "parts": []
+    },
+    {
+     "fa": "می‌رم",
+     "fin": "miram",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing / present"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l04-13"
+  },
+  {
+   "type": "teach",
+   "id": "l04-14",
+   "audio": "l04-14",
+   "say": "To say I didn't go, put na- in front: naraftam. Na- replaces both ne- and mi-, because the past has no mi-. Say it out loud.",
+   "en": "I didn't go",
+   "fa": "نرفتم",
+   "fin": "naraftam",
+   "words": [
+    {
+     "fa": "نرفتم",
+     "fin": "naraftam",
+     "parts": [
+      {
+       "fin": "na",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "raft",
+       "role": "stem",
+       "gloss": "went (past stem)"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "note": "na- + raft + -am. Past negative is na-, not ne-."
+  },
+  {
+   "type": "prompt",
+   "id": "l04-15",
+   "en": "How do you say: I didn't go?",
+   "fa": "نرفتم",
+   "fin": "naraftam",
+   "words": [
+    {
+     "fa": "نرفتم",
+     "fin": "naraftam",
+     "parts": [
+      {
+       "fin": "na",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "raft",
+       "role": "stem",
+       "gloss": "went (past stem)"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l04-15"
+  },
+  {
+   "type": "prompt",
+   "id": "l04-16",
+   "en": "How do you say: Yesterday I didn't go?",
+   "fa": "دیروز نرفتم",
+   "fin": "dirūz naraftam",
+   "words": [
+    {
+     "fa": "دیروز",
+     "fin": "dirūz",
+     "parts": []
+    },
+    {
+     "fa": "نرفتم",
+     "fin": "naraftam",
+     "parts": [
+      {
+       "fin": "na",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "raft",
+       "role": "stem",
+       "gloss": "went (past stem)"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l04-16"
+  },
+  {
+   "type": "prompt",
+   "id": "l04-17",
+   "en": "How do you say: I went there yesterday?",
+   "fa": "دیروز اونجا رفتم",
+   "fin": "dirūz unjā raftam",
+   "words": [
+    {
+     "fa": "دیروز",
+     "fin": "dirūz",
+     "parts": []
+    },
+    {
+     "fa": "اونجا",
+     "fin": "unjā",
+     "parts": []
+    },
+    {
+     "fa": "رفتم",
+     "fin": "raftam",
+     "parts": [
+      {
+       "fin": "raft",
+       "role": "stem",
+       "gloss": "went (past stem)"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l04-17"
+  },
+  {
+   "type": "teach",
+   "id": "l04-18",
+   "audio": "l04-18",
+   "say": "Now 'come'. Its past stem is omad, and with -am it's omadam. Say it. Don't mix it up with miyām, which is the present.",
+   "en": "I came",
+   "fa": "اومدم",
+   "fin": "omadam",
+   "words": [
+    {
+     "fa": "اومدم",
+     "fin": "omadam",
+     "parts": [
+      {
+       "fin": "omad",
+       "role": "stem",
+       "gloss": "came (past stem)"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "note": "omad + -am. Compare miyām / biyām, which use the stem yā."
+  },
+  {
+   "type": "prompt",
+   "id": "l04-19",
+   "en": "How do you say: I came?",
+   "fa": "اومدم",
+   "fin": "omadam",
+   "words": [
+    {
+     "fa": "اومدم",
+     "fin": "omadam",
+     "parts": [
+      {
+       "fin": "omad",
+       "role": "stem",
+       "gloss": "came (past stem)"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l04-19"
+  },
+  {
+   "type": "teach",
+   "id": "l04-20",
+   "audio": "l04-20",
+   "say": "Another time word: dishab. It means last night. Say dishab omadam, last night I came.",
+   "en": "Last night I came",
+   "fa": "دیشب اومدم",
+   "fin": "dishab omadam",
+   "words": [
+    {
+     "fa": "دیشب",
+     "fin": "dishab",
+     "parts": []
+    },
+    {
+     "fa": "اومدم",
+     "fin": "omadam",
+     "parts": [
+      {
+       "fin": "omad",
+       "role": "stem",
+       "gloss": "came (past stem)"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "prompt",
+   "id": "l04-21",
+   "en": "How do you say: Last night I came here?",
+   "fa": "دیشب اینجا اومدم",
+   "fin": "dishab injā omadam",
+   "words": [
+    {
+     "fa": "دیشب",
+     "fin": "dishab",
+     "parts": []
+    },
+    {
+     "fa": "اینجا",
+     "fin": "injā",
+     "parts": []
+    },
+    {
+     "fa": "اومدم",
+     "fin": "omadam",
+     "parts": [
+      {
+       "fin": "omad",
+       "role": "stem",
+       "gloss": "came (past stem)"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l04-21"
+  },
+  {
+   "type": "teach",
+   "id": "l04-22",
+   "audio": "l04-22",
+   "say": "Now 'eat'. Past stem khord, so khordam. Say it. Compare mikhoram, I eat.",
+   "en": "I ate",
+   "fa": "خوردم",
+   "fin": "khordam",
+   "words": [
+    {
+     "fa": "خوردم",
+     "fin": "khordam",
+     "parts": [
+      {
+       "fin": "khord",
+       "role": "stem",
+       "gloss": "ate (past stem)"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "note": "khord + -am."
+  },
+  {
+   "type": "teach",
+   "id": "l04-23",
+   "audio": "l04-23",
+   "say": "And na- again: nakhordam. I didn't eat. Say dishab nakhordam, last night I didn't eat.",
+   "en": "Last night I didn't eat",
+   "fa": "دیشب نخوردم",
+   "fin": "dishab nakhordam",
+   "words": [
+    {
+     "fa": "دیشب",
+     "fin": "dishab",
+     "parts": []
+    },
+    {
+     "fa": "نخوردم",
+     "fin": "nakhordam",
+     "parts": [
+      {
+       "fin": "na",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "khord",
+       "role": "stem",
+       "gloss": "ate (past stem)"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "prompt",
+   "id": "l04-24",
+   "en": "How do you say: Last night I didn't eat?",
+   "fa": "دیشب نخوردم",
+   "fin": "dishab nakhordam",
+   "words": [
+    {
+     "fa": "دیشب",
+     "fin": "dishab",
+     "parts": []
+    },
+    {
+     "fa": "نخوردم",
+     "fin": "nakhordam",
+     "parts": [
+      {
+       "fin": "na",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "khord",
+       "role": "stem",
+       "gloss": "ate (past stem)"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l04-24"
+  },
+  {
+   "type": "teach",
+   "id": "l04-25",
+   "audio": "l04-25",
+   "say": "Now other people. For he or she, the past has no ending at all, just the stem: raft. Compare the present, where it was -e. Say dirūz unjā raft. She went there yesterday.",
+   "en": "She went there yesterday",
+   "fa": "دیروز اونجا رفت",
+   "fin": "dirūz unjā raft",
+   "words": [
+    {
+     "fa": "دیروز",
+     "fin": "dirūz",
+     "parts": []
+    },
+    {
+     "fa": "اونجا",
+     "fin": "unjā",
+     "parts": []
+    },
+    {
+     "fa": "رفت",
+     "fin": "raft",
+     "parts": [
+      {
+       "fin": "raft",
+       "role": "stem",
+       "gloss": "went (past stem)"
+      }
+     ]
+    }
+   ],
+   "note": "Past 3rd person: bare stem, no ending. The pronoun is dropped, so 'raft' can be he or she."
+  },
+  {
+   "type": "prompt",
+   "id": "l04-26",
+   "en": "How do you say: She went there yesterday?",
+   "fa": "دیروز اونجا رفت",
+   "fin": "dirūz unjā raft",
+   "words": [
+    {
+     "fa": "دیروز",
+     "fin": "dirūz",
+     "parts": []
+    },
+    {
+     "fa": "اونجا",
+     "fin": "unjā",
+     "parts": []
+    },
+    {
+     "fa": "رفت",
+     "fin": "raft",
+     "parts": [
+      {
+       "fin": "raft",
+       "role": "stem",
+       "gloss": "went (past stem)"
+      }
+     ]
+    }
+   ],
+   "audio": "l04-26"
+  },
+  {
+   "type": "teach",
+   "id": "l04-27",
+   "audio": "l04-27",
+   "say": "For we it is -im: omadim. Last night we came here. Say it.",
+   "en": "Last night we came here",
+   "fa": "دیشب اینجا اومدیم",
+   "fin": "dishab injā omadim",
+   "words": [
+    {
+     "fa": "دیشب",
+     "fin": "dishab",
+     "parts": []
+    },
+    {
+     "fa": "اینجا",
+     "fin": "injā",
+     "parts": []
+    },
+    {
+     "fa": "اومدیم",
+     "fin": "omadim",
+     "parts": [
+      {
+       "fin": "omad",
+       "role": "stem",
+       "gloss": "came (past stem)"
+      },
+      {
+       "fin": "im",
+       "role": "ending",
+       "gloss": "we"
+      }
+     ]
+    }
+   ],
+   "note": "-im is the same ending as in the present."
+  },
+  {
+   "type": "prompt",
+   "id": "l04-28",
+   "en": "How do you say: Last night we came here?",
+   "fa": "دیشب اینجا اومدیم",
+   "fin": "dishab injā omadim",
+   "words": [
+    {
+     "fa": "دیشب",
+     "fin": "dishab",
+     "parts": []
+    },
+    {
+     "fa": "اینجا",
+     "fin": "injā",
+     "parts": []
+    },
+    {
+     "fa": "اومدیم",
+     "fin": "omadim",
+     "parts": [
+      {
+       "fin": "omad",
+       "role": "stem",
+       "gloss": "came (past stem)"
+      },
+      {
+       "fin": "im",
+       "role": "ending",
+       "gloss": "we"
+      }
+     ]
+    }
+   ],
+   "audio": "l04-28"
+  },
+  {
+   "type": "teach",
+   "id": "l04-29",
+   "audio": "l04-29",
+   "say": "For you, one person, it is -i: rafti. Dirūz rafti. You went yesterday. Compare present miri.",
+   "en": "You went yesterday",
+   "fa": "دیروز رفتی",
+   "fin": "dirūz rafti",
+   "words": [
+    {
+     "fa": "دیروز",
+     "fin": "dirūz",
+     "parts": []
+    },
+    {
+     "fa": "رفتی",
+     "fin": "rafti",
+     "parts": [
+      {
+       "fin": "raft",
+       "role": "stem",
+       "gloss": "went (past stem)"
+      },
+      {
+       "fin": "i",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "prompt",
+   "id": "l04-30",
+   "en": "How do you say: You went yesterday?",
+   "fa": "دیروز رفتی",
+   "fin": "dirūz rafti",
+   "words": [
+    {
+     "fa": "دیروز",
+     "fin": "dirūz",
+     "parts": []
+    },
+    {
+     "fa": "رفتی",
+     "fin": "rafti",
+     "parts": [
+      {
+       "fin": "raft",
+       "role": "stem",
+       "gloss": "went (past stem)"
+      },
+      {
+       "fin": "i",
+       "role": "ending",
+       "gloss": "you"
+      }
+     ]
+    }
+   ],
+   "audio": "l04-30"
+  },
+  {
+   "type": "teach",
+   "id": "l04-31",
+   "audio": "l04-31",
+   "say": "For they, -an. Dirūz raftan. They went yesterday. The pattern is the same as before: stem plus the ending you know.",
+   "en": "They went yesterday",
+   "fa": "دیروز رفتن",
+   "fin": "dirūz raftan",
+   "words": [
+    {
+     "fa": "دیروز",
+     "fin": "dirūz",
+     "parts": []
+    },
+    {
+     "fa": "رفتن",
+     "fin": "raftan",
+     "parts": [
+      {
+       "fin": "raft",
+       "role": "stem",
+       "gloss": "went (past stem)"
+      },
+      {
+       "fin": "an",
+       "role": "ending",
+       "gloss": "they"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "teach",
+   "id": "l04-32",
+   "audio": "l04-32",
+   "say": "Now 'couldn't'. Mitūnam is I can. Past: mitūnestam, I could. With ne- in front: nemitūnestam, I couldn't. Say it, then add bokhoram.",
+   "en": "I couldn't eat",
+   "fa": "نمی‌تونستم بخورم",
+   "fin": "nemitūnestam bokhoram",
+   "words": [
+    {
+     "fa": "نمی‌تونستم",
+     "fin": "nemitūnestam",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing"
+      },
+      {
+       "fin": "tūnest",
+       "role": "stem",
+       "gloss": "could (past stem)"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "بخورم",
+     "fin": "bokhoram",
+     "parts": [
+      {
+       "fin": "bo",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "note": "ne- + mi- + tūnest + -am. The 'to eat' part stays bokhoram."
+  },
+  {
+   "type": "prompt",
+   "id": "l04-33",
+   "en": "How do you say: I couldn't eat?",
+   "fa": "نمی‌تونستم بخورم",
+   "fin": "nemitūnestam bokhoram",
+   "words": [
+    {
+     "fa": "نمی‌تونستم",
+     "fin": "nemitūnestam",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing"
+      },
+      {
+       "fin": "tūnest",
+       "role": "stem",
+       "gloss": "could (past stem)"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "بخورم",
+     "fin": "bokhoram",
+     "parts": [
+      {
+       "fin": "bo",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l04-33"
+  },
+  {
+   "type": "teach",
+   "id": "l04-34",
+   "audio": "l04-34",
+   "say": "Now put two pieces together with vali, which means but. I wanted to eat, but I couldn't. Say it out loud.",
+   "en": "I wanted to eat but I couldn't",
+   "fa": "می‌خواستم بخورم ولی نمی‌تونستم",
+   "fin": "mikhāstam bokhoram vali nemitūnestam",
+   "words": [
+    {
+     "fa": "می‌خواستم",
+     "fin": "mikhāstam",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing"
+      },
+      {
+       "fin": "khāst",
+       "role": "stem",
+       "gloss": "wanted (past stem)"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "بخورم",
+     "fin": "bokhoram",
+     "parts": [
+      {
+       "fin": "bo",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "ولی",
+     "fin": "vali",
+     "parts": []
+    },
+    {
+     "fa": "نمی‌تونستم",
+     "fin": "nemitūnestam",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing"
+      },
+      {
+       "fin": "tūnest",
+       "role": "stem",
+       "gloss": "could (past stem)"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "prompt",
+   "id": "l04-35",
+   "en": "How do you say: I wanted to eat but I couldn't?",
+   "fa": "می‌خواستم بخورم ولی نمی‌تونستم",
+   "fin": "mikhāstam bokhoram vali nemitūnestam",
+   "words": [
+    {
+     "fa": "می‌خواستم",
+     "fin": "mikhāstam",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing"
+      },
+      {
+       "fin": "khāst",
+       "role": "stem",
+       "gloss": "wanted (past stem)"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "بخورم",
+     "fin": "bokhoram",
+     "parts": [
+      {
+       "fin": "bo",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "ولی",
+     "fin": "vali",
+     "parts": []
+    },
+    {
+     "fa": "نمی‌تونستم",
+     "fin": "nemitūnestam",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "ongoing"
+      },
+      {
+       "fin": "tūnest",
+       "role": "stem",
+       "gloss": "could (past stem)"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l04-35"
+  },
+  {
+   "type": "review",
+   "id": "l04-43",
+   "say": "Now mix them yourself. Say each one before you reveal it.",
+   "items": [
+    {
+     "type": "prompt",
+     "id": "l04-36",
+     "en": "Yesterday I didn't want to go",
+     "fa": "دیروز نمی‌خواستم برم",
+     "fin": "dirūz nemikhāstam beram",
+     "words": [
+      {
+       "fa": "دیروز",
+       "fin": "dirūz",
+       "parts": []
+      },
+      {
+       "fa": "نمی‌خواستم",
+       "fin": "nemikhāstam",
+       "parts": [
+        {
+         "fin": "ne",
+         "role": "neg",
+         "gloss": "not"
+        },
+        {
+         "fin": "mi",
+         "role": "prefix",
+         "gloss": "ongoing"
+        },
+        {
+         "fin": "khāst",
+         "role": "stem",
+         "gloss": "wanted (past stem)"
+        },
+        {
+         "fin": "am",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      },
+      {
+       "fa": "برم",
+       "fin": "beram",
+       "parts": [
+        {
+         "fin": "be",
+         "role": "prefix",
+         "gloss": "'to' (subjunctive)"
+        },
+        {
+         "fin": "r",
+         "role": "stem",
+         "gloss": "go"
+        },
+        {
+         "fin": "am",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      }
+     ],
+     "audio": "l04-36"
+    },
+    {
+     "type": "prompt",
+     "id": "l04-37",
+     "en": "Last night we came here",
+     "fa": "دیشب اینجا اومدیم",
+     "fin": "dishab injā omadim",
+     "words": [
+      {
+       "fa": "دیشب",
+       "fin": "dishab",
+       "parts": []
+      },
+      {
+       "fa": "اینجا",
+       "fin": "injā",
+       "parts": []
+      },
+      {
+       "fa": "اومدیم",
+       "fin": "omadim",
+       "parts": [
+        {
+         "fin": "omad",
+         "role": "stem",
+         "gloss": "came (past stem)"
+        },
+        {
+         "fin": "im",
+         "role": "ending",
+         "gloss": "we"
+        }
+       ]
+      }
+     ],
+     "audio": "l04-37"
+    },
+    {
+     "type": "prompt",
+     "id": "l04-38",
+     "en": "I wanted to eat but I couldn't",
+     "fa": "می‌خواستم بخورم ولی نمی‌تونستم",
+     "fin": "mikhāstam bokhoram vali nemitūnestam",
+     "words": [
+      {
+       "fa": "می‌خواستم",
+       "fin": "mikhāstam",
+       "parts": [
+        {
+         "fin": "mi",
+         "role": "prefix",
+         "gloss": "ongoing"
+        },
+        {
+         "fin": "khāst",
+         "role": "stem",
+         "gloss": "wanted (past stem)"
+        },
+        {
+         "fin": "am",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      },
+      {
+       "fa": "بخورم",
+       "fin": "bokhoram",
+       "parts": [
+        {
+         "fin": "bo",
+         "role": "prefix",
+         "gloss": "'to' (subjunctive)"
+        },
+        {
+         "fin": "khor",
+         "role": "stem",
+         "gloss": "eat"
+        },
+        {
+         "fin": "am",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      },
+      {
+       "fa": "ولی",
+       "fin": "vali",
+       "parts": []
+      },
+      {
+       "fa": "نمی‌تونستم",
+       "fin": "nemitūnestam",
+       "parts": [
+        {
+         "fin": "ne",
+         "role": "neg",
+         "gloss": "not"
+        },
+        {
+         "fin": "mi",
+         "role": "prefix",
+         "gloss": "ongoing"
+        },
+        {
+         "fin": "tūnest",
+         "role": "stem",
+         "gloss": "could (past stem)"
+        },
+        {
+         "fin": "am",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      }
+     ],
+     "audio": "l04-38"
+    },
+    {
+     "type": "prompt",
+     "id": "l04-39",
+     "en": "She went there yesterday",
+     "fa": "دیروز اونجا رفت",
+     "fin": "dirūz unjā raft",
+     "words": [
+      {
+       "fa": "دیروز",
+       "fin": "dirūz",
+       "parts": []
+      },
+      {
+       "fa": "اونجا",
+       "fin": "unjā",
+       "parts": []
+      },
+      {
+       "fa": "رفت",
+       "fin": "raft",
+       "parts": [
+        {
+         "fin": "raft",
+         "role": "stem",
+         "gloss": "went (past stem)"
+        }
+       ]
+      }
+     ],
+     "audio": "l04-39"
+    },
+    {
+     "type": "prompt",
+     "id": "l04-40",
+     "en": "Yesterday I went, tomorrow I'm going",
+     "fa": "دیروز رفتم فردا می‌رم",
+     "fin": "dirūz raftam fardā miram",
+     "words": [
+      {
+       "fa": "دیروز",
+       "fin": "dirūz",
+       "parts": []
+      },
+      {
+       "fa": "رفتم",
+       "fin": "raftam",
+       "parts": [
+        {
+         "fin": "raft",
+         "role": "stem",
+         "gloss": "went (past stem)"
+        },
+        {
+         "fin": "am",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      },
+      {
+       "fa": "فردا",
+       "fin": "fardā",
+       "parts": []
+      },
+      {
+       "fa": "می‌رم",
+       "fin": "miram",
+       "parts": [
+        {
+         "fin": "mi",
+         "role": "prefix",
+         "gloss": "ongoing / present"
+        },
+        {
+         "fin": "r",
+         "role": "stem",
+         "gloss": "go"
+        },
+        {
+         "fin": "am",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      }
+     ],
+     "audio": "l04-40"
+    },
+    {
+     "type": "prompt",
+     "id": "l04-41",
+     "en": "Last night I didn't eat",
+     "fa": "دیشب نخوردم",
+     "fin": "dishab nakhordam",
+     "words": [
+      {
+       "fa": "دیشب",
+       "fin": "dishab",
+       "parts": []
+      },
+      {
+       "fa": "نخوردم",
+       "fin": "nakhordam",
+       "parts": [
+        {
+         "fin": "na",
+         "role": "neg",
+         "gloss": "not"
+        },
+        {
+         "fin": "khord",
+         "role": "stem",
+         "gloss": "ate (past stem)"
+        },
+        {
+         "fin": "am",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      }
+     ],
+     "audio": "l04-41"
+    },
+    {
+     "type": "prompt",
+     "id": "l04-42",
+     "en": "I came here yesterday",
+     "fa": "دیروز اینجا اومدم",
+     "fin": "dirūz injā omadam",
+     "words": [
+      {
+       "fa": "دیروز",
+       "fin": "dirūz",
+       "parts": []
+      },
+      {
+       "fa": "اینجا",
+       "fin": "injā",
+       "parts": []
+      },
+      {
+       "fa": "اومدم",
+       "fin": "omadam",
+       "parts": [
+        {
+         "fin": "omad",
+         "role": "stem",
+         "gloss": "came (past stem)"
+        },
+        {
+         "fin": "am",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      }
+     ],
+     "audio": "l04-42"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1988 @@
+{
+ "id": "l03",
+ "title": "Now and tomorrow",
+ "goal": "Use the present tense for now and tomorrow: miram, miyām, mikhoram and their negatives, with alān, emruz, fardā, emshab, plus dāram for 'right now'.",
+ "steps": [
+  {
+   "type": "teach",
+   "id": "l03-01",
+   "audio": "l03-01",
+   "say": "Last time you learned beram, 'that I go', which you use after 'want'. Now the real present tense. Take off be- and put mi- instead: mi-r-am, miram. You already know mi- from mikhām and mitūnam. Say it out loud first.",
+   "en": "I go / I'm going",
+   "fa": "می‌رم",
+   "fin": "miram",
+   "words": [
+    {
+     "fa": "می‌رم",
+     "fin": "miram",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "note": "be- becomes mi-: be-r-am to mi-r-am."
+  },
+  {
+   "type": "prompt",
+   "id": "l03-02",
+   "en": "How do you say: I go?",
+   "fa": "می‌رم",
+   "fin": "miram",
+   "words": [
+    {
+     "fa": "می‌رم",
+     "fin": "miram",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l03-02"
+  },
+  {
+   "type": "teach",
+   "id": "l03-03",
+   "audio": "l03-03",
+   "say": "Same trick with 'come'. Before it was biyām. Swap bi- for mi-: miyām. Say it out loud.",
+   "en": "I come / I'm coming",
+   "fa": "میام",
+   "fin": "miyām",
+   "words": [
+    {
+     "fa": "میام",
+     "fin": "miyām",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "note": "bi- becomes mi-: bi-yā-m to mi-yā-m."
+  },
+  {
+   "type": "prompt",
+   "id": "l03-04",
+   "en": "How do you say: I come?",
+   "fa": "میام",
+   "fin": "miyām",
+   "words": [
+    {
+     "fa": "میام",
+     "fin": "miyām",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l03-04"
+  },
+  {
+   "type": "teach",
+   "id": "l03-05",
+   "audio": "l03-05",
+   "say": "And 'eat': bokhoram becomes mikhoram. Careful: mikhām is 'I want', mikhoram is 'I eat'. The vowels are different. Say both.",
+   "en": "I eat / I'm eating",
+   "fa": "می‌خورم",
+   "fin": "mikhoram",
+   "words": [
+    {
+     "fa": "می‌خورم",
+     "fin": "mikhoram",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "note": "mikhām = I want, mikhoram = I eat."
+  },
+  {
+   "type": "prompt",
+   "id": "l03-06",
+   "en": "How do you say: I eat?",
+   "fa": "می‌خورم",
+   "fin": "mikhoram",
+   "words": [
+    {
+     "fa": "می‌خورم",
+     "fin": "mikhoram",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l03-06"
+  },
+  {
+   "type": "prompt",
+   "id": "l03-07",
+   "en": "How do you say: I want?",
+   "fa": "می‌خوام",
+   "fin": "mikhām",
+   "words": [
+    {
+     "fa": "می‌خوام",
+     "fin": "mikhām",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l03-07"
+  },
+  {
+   "type": "teach",
+   "id": "l03-08",
+   "audio": "l03-08",
+   "say": "Compare. After 'want' you still need be-: mikhām beram, 'I want to go'. Say it, then say the plain one: miram.",
+   "en": "I want to go",
+   "fa": "می‌خوام برم",
+   "fin": "mikhām beram",
+   "words": [
+    {
+     "fa": "می‌خوام",
+     "fin": "mikhām",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "برم",
+     "fin": "beram",
+     "parts": [
+      {
+       "fin": "be",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "prompt",
+   "id": "l03-09",
+   "en": "How do you say: I go?",
+   "fa": "می‌رم",
+   "fin": "miram",
+   "words": [
+    {
+     "fa": "می‌رم",
+     "fin": "miram",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l03-09"
+  },
+  {
+   "type": "prompt",
+   "id": "l03-10",
+   "en": "How do you say: I want to come?",
+   "fa": "می‌خوام بیام",
+   "fin": "mikhām biyām",
+   "words": [
+    {
+     "fa": "می‌خوام",
+     "fin": "mikhām",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "بیام",
+     "fin": "biyām",
+     "parts": [
+      {
+       "fin": "bi",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l03-10"
+  },
+  {
+   "type": "prompt",
+   "id": "l03-11",
+   "en": "How do you say: I come?",
+   "fa": "میام",
+   "fin": "miyām",
+   "words": [
+    {
+     "fa": "میام",
+     "fin": "miyām",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l03-11"
+  },
+  {
+   "type": "prompt",
+   "id": "l03-12",
+   "en": "How do you say: I want to eat?",
+   "fa": "می‌خوام بخورم",
+   "fin": "mikhām bokhoram",
+   "words": [
+    {
+     "fa": "می‌خوام",
+     "fin": "mikhām",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "khā",
+       "role": "stem",
+       "gloss": "want"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "بخورم",
+     "fin": "bokhoram",
+     "parts": [
+      {
+       "fin": "bo",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l03-12"
+  },
+  {
+   "type": "prompt",
+   "id": "l03-13",
+   "en": "How do you say: I eat?",
+   "fa": "می‌خورم",
+   "fin": "mikhoram",
+   "words": [
+    {
+     "fa": "می‌خورم",
+     "fin": "mikhoram",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l03-13"
+  },
+  {
+   "type": "teach",
+   "id": "l03-14",
+   "audio": "l03-14",
+   "say": "Place goes before the verb, just like in lesson 1. Say: unjā miram.",
+   "en": "I go there",
+   "fa": "اونجا می‌رم",
+   "fin": "unjā miram",
+   "words": [
+    {
+     "fa": "اونجا",
+     "fin": "unjā",
+     "parts": []
+    },
+    {
+     "fa": "می‌رم",
+     "fin": "miram",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "prompt",
+   "id": "l03-15",
+   "en": "How do you say: I come here?",
+   "fa": "اینجا میام",
+   "fin": "injā miyām",
+   "words": [
+    {
+     "fa": "اینجا",
+     "fin": "injā",
+     "parts": []
+    },
+    {
+     "fa": "میام",
+     "fin": "miyām",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l03-15"
+  },
+  {
+   "type": "teach",
+   "id": "l03-16",
+   "audio": "l03-16",
+   "say": "Negative: put ne- in front, exactly as in nemikhām. ne-mi-r-am. Say it out loud.",
+   "en": "I don't go / I'm not going",
+   "fa": "نمی‌رم",
+   "fin": "nemiram",
+   "words": [
+    {
+     "fa": "نمی‌رم",
+     "fin": "nemiram",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "prompt",
+   "id": "l03-17",
+   "en": "How do you say: I'm not going?",
+   "fa": "نمی‌رم",
+   "fin": "nemiram",
+   "words": [
+    {
+     "fa": "نمی‌رم",
+     "fin": "nemiram",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l03-17"
+  },
+  {
+   "type": "teach",
+   "id": "l03-18",
+   "audio": "l03-18",
+   "say": "Same for 'come': nemiyām.",
+   "en": "I don't come / I'm not coming",
+   "fa": "نمیام",
+   "fin": "nemiyām",
+   "words": [
+    {
+     "fa": "نمیام",
+     "fin": "nemiyām",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "prompt",
+   "id": "l03-19",
+   "en": "How do you say: I'm not coming?",
+   "fa": "نمیام",
+   "fin": "nemiyām",
+   "words": [
+    {
+     "fa": "نمیام",
+     "fin": "nemiyām",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l03-19"
+  },
+  {
+   "type": "teach",
+   "id": "l03-20",
+   "audio": "l03-20",
+   "say": "And nemikhoram. Careful again: nemikhām is 'I don't want', nemikhoram is 'I don't eat'.",
+   "en": "I don't eat / I'm not eating",
+   "fa": "نمی‌خورم",
+   "fin": "nemikhoram",
+   "words": [
+    {
+     "fa": "نمی‌خورم",
+     "fin": "nemikhoram",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "prompt",
+   "id": "l03-21",
+   "en": "How do you say: I'm not eating?",
+   "fa": "نمی‌خورم",
+   "fin": "nemikhoram",
+   "words": [
+    {
+     "fa": "نمی‌خورم",
+     "fin": "nemikhoram",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l03-21"
+  },
+  {
+   "type": "teach",
+   "id": "l03-22",
+   "audio": "l03-22",
+   "say": "Now time. In Persian the present tense also covers the near future, so you need time words. First: alān, 'now'. Say it.",
+   "en": "now",
+   "fa": "الان",
+   "fin": "alān",
+   "words": [
+    {
+     "fa": "الان",
+     "fin": "alān",
+     "parts": []
+    }
+   ]
+  },
+  {
+   "type": "teach",
+   "id": "l03-23",
+   "audio": "l03-23",
+   "say": "Put the time word first, then the verb: alān miram. Say it.",
+   "en": "I'm going now",
+   "fa": "الان می‌رم",
+   "fin": "alān miram",
+   "words": [
+    {
+     "fa": "الان",
+     "fin": "alān",
+     "parts": []
+    },
+    {
+     "fa": "می‌رم",
+     "fin": "miram",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "prompt",
+   "id": "l03-24",
+   "en": "How do you say: I'm not eating now?",
+   "fa": "الان نمی‌خورم",
+   "fin": "alān nemikhoram",
+   "words": [
+    {
+     "fa": "الان",
+     "fin": "alān",
+     "parts": []
+    },
+    {
+     "fa": "نمی‌خورم",
+     "fin": "nemikhoram",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l03-24"
+  },
+  {
+   "type": "teach",
+   "id": "l03-25",
+   "audio": "l03-25",
+   "say": "Now the big idea. Fardā means 'tomorrow'. Say it.",
+   "en": "tomorrow",
+   "fa": "فردا",
+   "fin": "fardā",
+   "words": [
+    {
+     "fa": "فردا",
+     "fin": "fardā",
+     "parts": []
+    }
+   ]
+  },
+  {
+   "type": "teach",
+   "id": "l03-26",
+   "audio": "l03-26",
+   "say": "Miram with fardā in front means 'I'm going tomorrow'. Persian simply uses the present for the near future, no extra 'will'. Say it.",
+   "en": "Tomorrow I'm going / I'll go tomorrow",
+   "fa": "فردا می‌رم",
+   "fin": "fardā miram",
+   "words": [
+    {
+     "fa": "فردا",
+     "fin": "fardā",
+     "parts": []
+    },
+    {
+     "fa": "می‌رم",
+     "fin": "miram",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "note": "Same verb: alān miram = now, fardā miram = tomorrow."
+  },
+  {
+   "type": "prompt",
+   "id": "l03-27",
+   "en": "How do you say: Tomorrow I'm going?",
+   "fa": "فردا می‌رم",
+   "fin": "fardā miram",
+   "words": [
+    {
+     "fa": "فردا",
+     "fin": "fardā",
+     "parts": []
+    },
+    {
+     "fa": "می‌رم",
+     "fin": "miram",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l03-27"
+  },
+  {
+   "type": "teach",
+   "id": "l03-28",
+   "audio": "l03-28",
+   "say": "Time first, place before the verb. Fardā unjā miram. Say it out loud.",
+   "en": "Tomorrow I'm going there",
+   "fa": "فردا اونجا می‌رم",
+   "fin": "fardā unjā miram",
+   "words": [
+    {
+     "fa": "فردا",
+     "fin": "fardā",
+     "parts": []
+    },
+    {
+     "fa": "اونجا",
+     "fin": "unjā",
+     "parts": []
+    },
+    {
+     "fa": "می‌رم",
+     "fin": "miram",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "prompt",
+   "id": "l03-29",
+   "en": "How do you say: Tomorrow I'm going there?",
+   "fa": "فردا اونجا می‌رم",
+   "fin": "fardā unjā miram",
+   "words": [
+    {
+     "fa": "فردا",
+     "fin": "fardā",
+     "parts": []
+    },
+    {
+     "fa": "اونجا",
+     "fin": "unjā",
+     "parts": []
+    },
+    {
+     "fa": "می‌رم",
+     "fin": "miram",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l03-29"
+  },
+  {
+   "type": "teach",
+   "id": "l03-30",
+   "audio": "l03-30",
+   "say": "Emruz means 'today'. Say it.",
+   "en": "today",
+   "fa": "امروز",
+   "fin": "emruz",
+   "words": [
+    {
+     "fa": "امروز",
+     "fin": "emruz",
+     "parts": []
+    }
+   ]
+  },
+  {
+   "type": "prompt",
+   "id": "l03-31",
+   "en": "How do you say: Today I'm not coming here?",
+   "fa": "امروز اینجا نمیام",
+   "fin": "emruz injā nemiyām",
+   "words": [
+    {
+     "fa": "امروز",
+     "fin": "emruz",
+     "parts": []
+    },
+    {
+     "fa": "اینجا",
+     "fin": "injā",
+     "parts": []
+    },
+    {
+     "fa": "نمیام",
+     "fin": "nemiyām",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l03-31"
+  },
+  {
+   "type": "teach",
+   "id": "l03-32",
+   "audio": "l03-32",
+   "say": "Emshab means 'tonight'. Say it.",
+   "en": "tonight",
+   "fa": "امشب",
+   "fin": "emshab",
+   "words": [
+    {
+     "fa": "امشب",
+     "fin": "emshab",
+     "parts": []
+    }
+   ]
+  },
+  {
+   "type": "prompt",
+   "id": "l03-33",
+   "en": "How do you say: Tonight I'm coming?",
+   "fa": "امشب میام",
+   "fin": "emshab miyām",
+   "words": [
+    {
+     "fa": "امشب",
+     "fin": "emshab",
+     "parts": []
+    },
+    {
+     "fa": "میام",
+     "fin": "miyām",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l03-33"
+  },
+  {
+   "type": "teach",
+   "id": "l03-34",
+   "audio": "l03-34",
+   "say": "Other persons work the same. -d is 'he/she' on 'come': miyād. Fardā miyād, 'he's coming tomorrow'.",
+   "en": "Tomorrow he/she is coming",
+   "fa": "فردا میاد",
+   "fin": "fardā miyād",
+   "words": [
+    {
+     "fa": "فردا",
+     "fin": "fardā",
+     "parts": []
+    },
+    {
+     "fa": "میاد",
+     "fin": "miyād",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "d",
+       "role": "ending",
+       "gloss": "he / she"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "prompt",
+   "id": "l03-35",
+   "en": "How do you say: Tonight we're coming here?",
+   "fa": "امشب اینجا میایم",
+   "fin": "emshab injā miyāym",
+   "words": [
+    {
+     "fa": "امشب",
+     "fin": "emshab",
+     "parts": []
+    },
+    {
+     "fa": "اینجا",
+     "fin": "injā",
+     "parts": []
+    },
+    {
+     "fa": "میایم",
+     "fin": "miyāym",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "ym",
+       "role": "ending",
+       "gloss": "we"
+      }
+     ]
+    }
+   ],
+   "audio": "l03-35",
+   "hint": "'we' ends in -im, and come is miyāym"
+  },
+  {
+   "type": "teach",
+   "id": "l03-36",
+   "audio": "l03-36",
+   "say": "Now to say 'I'm going right this minute', add dāram before the verb. Dāram is dār plus -am, 'I am in the middle of'. Dāram miram, 'I'm (in the middle of) going'. Say it.",
+   "en": "I'm going (right now)",
+   "fa": "دارم می‌رم",
+   "fin": "dāram miram",
+   "words": [
+    {
+     "fa": "دارم",
+     "fin": "dāram",
+     "parts": [
+      {
+       "fin": "dār",
+       "role": "stem",
+       "gloss": "have / be in the middle of"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "می‌رم",
+     "fin": "miram",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "note": "Use dāram only for right now, not for tomorrow."
+  },
+  {
+   "type": "prompt",
+   "id": "l03-37",
+   "en": "How do you say: I'm going (right now)?",
+   "fa": "دارم می‌رم",
+   "fin": "dāram miram",
+   "words": [
+    {
+     "fa": "دارم",
+     "fin": "dāram",
+     "parts": [
+      {
+       "fin": "dār",
+       "role": "stem",
+       "gloss": "have / be in the middle of"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "می‌رم",
+     "fin": "miram",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l03-37"
+  },
+  {
+   "type": "teach",
+   "id": "l03-38",
+   "audio": "l03-38",
+   "say": "Same with eating: dāram mikhoram, 'I'm eating right now'.",
+   "en": "I'm eating (right now)",
+   "fa": "دارم می‌خورم",
+   "fin": "dāram mikhoram",
+   "words": [
+    {
+     "fa": "دارم",
+     "fin": "dāram",
+     "parts": [
+      {
+       "fin": "dār",
+       "role": "stem",
+       "gloss": "have / be in the middle of"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "می‌خورم",
+     "fin": "mikhoram",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "khor",
+       "role": "stem",
+       "gloss": "eat"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "prompt",
+   "id": "l03-39",
+   "en": "How do you say: I'm coming right now?",
+   "fa": "الان دارم میام",
+   "fin": "alān dāram miyām",
+   "words": [
+    {
+     "fa": "الان",
+     "fin": "alān",
+     "parts": []
+    },
+    {
+     "fa": "دارم",
+     "fin": "dāram",
+     "parts": [
+      {
+       "fin": "dār",
+       "role": "stem",
+       "gloss": "have / be in the middle of"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "میام",
+     "fin": "miyām",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ],
+   "audio": "l03-39"
+  },
+  {
+   "type": "teach",
+   "id": "l03-40",
+   "audio": "l03-40",
+   "say": "One more little word: vali means 'but'. Say it.",
+   "en": "but",
+   "fa": "ولی",
+   "fin": "vali",
+   "words": [
+    {
+     "fa": "ولی",
+     "fin": "vali",
+     "parts": []
+    }
+   ]
+  },
+  {
+   "type": "teach",
+   "id": "l03-41",
+   "audio": "l03-41",
+   "say": "Put it together, taking your time. After 'can't' you still use the be- form: nemitūnam biyām. Say the whole thing.",
+   "en": "I'm going there tomorrow but I can't come today",
+   "fa": "فردا اونجا می‌رم ولی امروز نمی‌تونم بیام",
+   "fin": "fardā unjā miram vali emruz nemitūnam biyām",
+   "words": [
+    {
+     "fa": "فردا",
+     "fin": "fardā",
+     "parts": []
+    },
+    {
+     "fa": "اونجا",
+     "fin": "unjā",
+     "parts": []
+    },
+    {
+     "fa": "می‌رم",
+     "fin": "miram",
+     "parts": [
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "r",
+       "role": "stem",
+       "gloss": "go"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "ولی",
+     "fin": "vali",
+     "parts": []
+    },
+    {
+     "fa": "امروز",
+     "fin": "emruz",
+     "parts": []
+    },
+    {
+     "fa": "نمی‌تونم",
+     "fin": "nemitūnam",
+     "parts": [
+      {
+       "fin": "ne",
+       "role": "neg",
+       "gloss": "not"
+      },
+      {
+       "fin": "mi",
+       "role": "prefix",
+       "gloss": "present (replaces be-)"
+      },
+      {
+       "fin": "tūn",
+       "role": "stem",
+       "gloss": "can"
+      },
+      {
+       "fin": "am",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    },
+    {
+     "fa": "بیام",
+     "fin": "biyām",
+     "parts": [
+      {
+       "fin": "bi",
+       "role": "prefix",
+       "gloss": "'to' (subjunctive)"
+      },
+      {
+       "fin": "yā",
+       "role": "stem",
+       "gloss": "come"
+      },
+      {
+       "fin": "m",
+       "role": "ending",
+       "gloss": "I"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "review",
+   "id": "l03-50",
+   "say": "Now mix them yourself. Say each one before you reveal it.",
+   "items": [
+    {
+     "type": "prompt",
+     "id": "l03-42",
+     "en": "Tomorrow I'm going there",
+     "fa": "فردا اونجا می‌رم",
+     "fin": "fardā unjā miram",
+     "words": [
+      {
+       "fa": "فردا",
+       "fin": "fardā",
+       "parts": []
+      },
+      {
+       "fa": "اونجا",
+       "fin": "unjā",
+       "parts": []
+      },
+      {
+       "fa": "می‌رم",
+       "fin": "miram",
+       "parts": [
+        {
+         "fin": "mi",
+         "role": "prefix",
+         "gloss": "present (replaces be-)"
+        },
+        {
+         "fin": "r",
+         "role": "stem",
+         "gloss": "go"
+        },
+        {
+         "fin": "am",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      }
+     ],
+     "audio": "l03-42"
+    },
+    {
+     "type": "prompt",
+     "id": "l03-43",
+     "en": "I'm not eating now",
+     "fa": "الان نمی‌خورم",
+     "fin": "alān nemikhoram",
+     "words": [
+      {
+       "fa": "الان",
+       "fin": "alān",
+       "parts": []
+      },
+      {
+       "fa": "نمی‌خورم",
+       "fin": "nemikhoram",
+       "parts": [
+        {
+         "fin": "ne",
+         "role": "neg",
+         "gloss": "not"
+        },
+        {
+         "fin": "mi",
+         "role": "prefix",
+         "gloss": "present (replaces be-)"
+        },
+        {
+         "fin": "khor",
+         "role": "stem",
+         "gloss": "eat"
+        },
+        {
+         "fin": "am",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      }
+     ],
+     "audio": "l03-43"
+    },
+    {
+     "type": "prompt",
+     "id": "l03-44",
+     "en": "Tonight we're coming here",
+     "fa": "امشب اینجا میایم",
+     "fin": "emshab injā miyāym",
+     "words": [
+      {
+       "fa": "امشب",
+       "fin": "emshab",
+       "parts": []
+      },
+      {
+       "fa": "اینجا",
+       "fin": "injā",
+       "parts": []
+      },
+      {
+       "fa": "میایم",
+       "fin": "miyāym",
+       "parts": [
+        {
+         "fin": "mi",
+         "role": "prefix",
+         "gloss": "present (replaces be-)"
+        },
+        {
+         "fin": "yā",
+         "role": "stem",
+         "gloss": "come"
+        },
+        {
+         "fin": "ym",
+         "role": "ending",
+         "gloss": "we"
+        }
+       ]
+      }
+     ],
+     "audio": "l03-44"
+    },
+    {
+     "type": "prompt",
+     "id": "l03-45",
+     "en": "I'm going there tomorrow but I can't come today",
+     "fa": "فردا اونجا می‌رم ولی امروز نمی‌تونم بیام",
+     "fin": "fardā unjā miram vali emruz nemitūnam biyām",
+     "words": [
+      {
+       "fa": "فردا",
+       "fin": "fardā",
+       "parts": []
+      },
+      {
+       "fa": "اونجا",
+       "fin": "unjā",
+       "parts": []
+      },
+      {
+       "fa": "می‌رم",
+       "fin": "miram",
+       "parts": [
+        {
+         "fin": "mi",
+         "role": "prefix",
+         "gloss": "present (replaces be-)"
+        },
+        {
+         "fin": "r",
+         "role": "stem",
+         "gloss": "go"
+        },
+        {
+         "fin": "am",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      },
+      {
+       "fa": "ولی",
+       "fin": "vali",
+       "parts": []
+      },
+      {
+       "fa": "امروز",
+       "fin": "emruz",
+       "parts": []
+      },
+      {
+       "fa": "نمی‌تونم",
+       "fin": "nemitūnam",
+       "parts": [
+        {
+         "fin": "ne",
+         "role": "neg",
+         "gloss": "not"
+        },
+        {
+         "fin": "mi",
+         "role": "prefix",
+         "gloss": "present (replaces be-)"
+        },
+        {
+         "fin": "tūn",
+         "role": "stem",
+         "gloss": "can"
+        },
+        {
+         "fin": "am",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      },
+      {
+       "fa": "بیام",
+       "fin": "biyām",
+       "parts": [
+        {
+         "fin": "bi",
+         "role": "prefix",
+         "gloss": "'to' (subjunctive)"
+        },
+        {
+         "fin": "yā",
+         "role": "stem",
+         "gloss": "come"
+        },
+        {
+         "fin": "m",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      }
+     ],
+     "audio": "l03-45"
+    },
+    {
+     "type": "prompt",
+     "id": "l03-46",
+     "en": "I'm eating right now",
+     "fa": "دارم می‌خورم",
+     "fin": "dāram mikhoram",
+     "words": [
+      {
+       "fa": "دارم",
+       "fin": "dāram",
+       "parts": [
+        {
+         "fin": "dār",
+         "role": "stem",
+         "gloss": "have / be in the middle of"
+        },
+        {
+         "fin": "am",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      },
+      {
+       "fa": "می‌خورم",
+       "fin": "mikhoram",
+       "parts": [
+        {
+         "fin": "mi",
+         "role": "prefix",
+         "gloss": "present (replaces be-)"
+        },
+        {
+         "fin": "khor",
+         "role": "stem",
+         "gloss": "eat"
+        },
+        {
+         "fin": "am",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      }
+     ],
+     "audio": "l03-46"
+    },
+    {
+     "type": "prompt",
+     "id": "l03-47",
+     "en": "Today I don't want to go there",
+     "fa": "امروز نمی‌خوام اونجا برم",
+     "fin": "emruz nemikhām unjā beram",
+     "words": [
+      {
+       "fa": "امروز",
+       "fin": "emruz",
+       "parts": []
+      },
+      {
+       "fa": "نمی‌خوام",
+       "fin": "nemikhām",
+       "parts": [
+        {
+         "fin": "ne",
+         "role": "neg",
+         "gloss": "not"
+        },
+        {
+         "fin": "mi",
+         "role": "prefix",
+         "gloss": "present (replaces be-)"
+        },
+        {
+         "fin": "khā",
+         "role": "stem",
+         "gloss": "want"
+        },
+        {
+         "fin": "m",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      },
+      {
+       "fa": "اونجا",
+       "fin": "unjā",
+       "parts": []
+      },
+      {
+       "fa": "برم",
+       "fin": "beram",
+       "parts": [
+        {
+         "fin": "be",
+         "role": "prefix",
+         "gloss": "'to' (subjunctive)"
+        },
+        {
+         "fin": "r",
+         "role": "stem",
+         "gloss": "go"
+        },
+        {
+         "fin": "am",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      }
+     ],
+     "audio": "l03-47"
+    },
+    {
+     "type": "prompt",
+     "id": "l03-48",
+     "en": "Tomorrow I want to come here",
+     "fa": "فردا می‌خوام اینجا بیام",
+     "fin": "fardā mikhām injā biyām",
+     "words": [
+      {
+       "fa": "فردا",
+       "fin": "fardā",
+       "parts": []
+      },
+      {
+       "fa": "می‌خوام",
+       "fin": "mikhām",
+       "parts": [
+        {
+         "fin": "mi",
+         "role": "prefix",
+         "gloss": "present (replaces be-)"
+        },
+        {
+         "fin": "khā",
+         "role": "stem",
+         "gloss": "want"
+        },
+        {
+         "fin": "m",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      },
+      {
+       "fa": "اینجا",
+       "fin": "injā",
+       "parts": []
+      },
+      {
+       "fa": "بیام",
+       "fin": "biyām",
+       "parts": [
+        {
+         "fin": "bi",
+         "role": "prefix",
+         "gloss": "'to' (subjunctive)"
+        },
+        {
+         "fin": "yā",
+         "role": "stem",
+         "gloss": "come"
+        },
+        {
+         "fin": "m",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      }
+     ],
+     "audio": "l03-48"
+    },
+    {
+     "type": "prompt",
+     "id": "l03-49",
+     "en": "Tonight I'm not coming",
+     "fa": "امشب نمیام",
+     "fin": "emshab nemiyām",
+     "words": [
+      {
+       "fa": "امشب",
+       "fin": "emshab",
+       "parts": []
+      },
+      {
+       "fa": "نمیام",
+       "fin": "nemiyām",
+       "parts": [
+        {
+         "fin": "ne",
+         "role": "neg",
+         "gloss": "not"
+        },
+        {
+         "fin": "mi",
+         "role": "prefix",
+         "gloss": "present (replaces be-)"
+        },
+        {
+         "fin": "yā",
+         "role": "stem",
+         "gloss": "come"
+        },
+        {
+         "fin": "m",
+         "role": "ending",
+         "gloss": "I"
+        }
+       ]
+      }
+     ],
+     "audio": "l03-49"
+    }
+   ]
+  }
+ ]
+}
