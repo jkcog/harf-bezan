@@ -1,4 +1,4 @@
-# Persian speaking course (working title)
+# Harf Bezan · حرف بزن
 
 A Michel Thomas-style course in colloquial (Tehrani) Persian: build sentences from a few
 pieces, say them out loud before the answer appears, no memorising lists. The visual layer
