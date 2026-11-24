@@ -1,14 +1,13 @@
 # Harf Bezan · حرف بزن
 
-A Michel Thomas-style course in colloquial (Tehrani) Persian: build sentences from a few
-pieces, say them out loud before the answer appears, no memorising lists. The visual layer
+A course in colloquial Persian: build sentences from a few pieces, say them out loud before the answer appears, grammar focused, no memorising lists. The visual layer
 colour-codes the pieces (negative / prefix / stem / ending) so the grammar shows up as a pattern.
 
 ## Run it
     ./serve.sh            # then open http://localhost:8000
     # audio (optional but expected): see udio.py; --sample compares voices first
 
-Static, no build step (plain ES modules), so it can go straight onto GitHub Pages later.
+Static, no build step (plain ES modules).
 Flow: teach beat -> say it aloud -> reveal -> "Got it" / "Not yet" (misses come back once at the end).
 Settings: sound, build-sentences-from-blocks mode, blur transliteration (progress/settings in localStorage).
 
