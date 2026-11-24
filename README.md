@@ -3,6 +3,8 @@
 A course in colloquial Persian: build sentences from a few pieces, say them out loud before the answer appears, grammar focused, no memorising lists. The visual layer
 colour-codes the pieces (negative / prefix / stem / ending) so the grammar shows up as a pattern.
 
+**[Try it live](https://jkcog.github.io/harf-bezan/)**
+
 <p>
   <img src="docs/screenshots/home.jpg" width="32%" alt="Lesson picker">
   <img src="docs/screenshots/teach.jpg" width="32%" alt="Teach step, colour-coded breakdown">
