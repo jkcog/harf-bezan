@@ -207,7 +207,7 @@ function homeView() {
 
   let active = 0;
   const goTo = (n, smooth) => {
-    n = Math.max(0, Math.min(slides.length - 1, n));
+    n = ((n % slides.length) + slides.length) % slides.length;
     slides[n].scrollIntoView({ behavior: smooth ? 'smooth' : 'auto', inline: 'center', block: 'nearest' });
   };
   const dots = S.lessons.map((_, n) => h('button', { class: 'dot', 'aria-label': `Go to lesson ${n + 1}`, onclick: () => goTo(n, true) }));
@@ -217,8 +217,6 @@ function homeView() {
     active = n;
     dots.forEach((d, i) => d.classList.toggle('active', i === n));
     slides.forEach((s, i) => s.classList.toggle('is-active', i === n));
-    prevBtn.disabled = n === 0;
-    nextBtn.disabled = n === slides.length - 1;
   };
   const io = new IntersectionObserver(entries => {
     entries.forEach(e => { if (e.isIntersecting) setActive(slides.indexOf(e.target)); });
