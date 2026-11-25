@@ -30,6 +30,7 @@ Audio: ~247 clips (a few steps use "voice": "farid"); run scripts/generate_audio
 - `lessons/index.json` lists lesson ids; `lessons/l01.json`  lesson data. Steps are `teach`, `prompt` or `review`.
 - `scripts/generate_audio.py`  edge-tts audio (same voice as noghteh); `--sample` compares Dilara vs Farid.
 - `audio/<step id>.mp3`  generated, keyed by stable step id (never renumber ids once published).
+- `scripts/lexicon-audit.mjs`  dev-only: `npm install && npm run lexicon-audit` cross-checks every lesson word against [persian-core](https://github.com/jkcog/persian-core)'s merged lexicon and reports drift. The live viewer has no dependency on it.
 
 ## Conventions
 - Colloquial spelling, with ZWNJ in می‌/نمی‌ (so TTS and rendering are right): می‌خوام, not می‌خواهم.
