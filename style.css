@@ -77,6 +77,10 @@ button:hover {
 button:active {
   transform: translateY(0) scale(0.98);
 }
+.btn-balanced {
+  min-width: 104px;
+  text-align: center;
+}
 button.primary {
   background: var(--accent);
   border-color: var(--accent);
@@ -491,26 +495,43 @@ button:disabled {
 }
 
 .slots {
-  display: flex;
-  gap: 10px;
-  flex-wrap: wrap;
   min-height: 58px;
   padding: 12px 4px;
   border-bottom: 2px dashed var(--line);
   margin: 18px 0 14px;
+}
+.slots-inner {
+  display: flex;
+  flex-direction: row-reverse;
+  gap: 10px;
+  flex-wrap: wrap;
   align-items: center;
+  min-height: 34px;
 }
-.slots.shake {
-  animation: shake 0.35s;
+.slots-inner.wrong {
+  animation: wrong-shake 0.6s ease-in-out;
 }
-@keyframes shake {
-  20%,
-  60% {
+@keyframes wrong-shake {
+  0% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+  15% {
+    transform: translateX(-8px);
+  }
+  30% {
+    transform: translateX(8px);
+  }
+  45% {
     transform: translateX(-6px);
   }
-  40%,
-  80% {
+  60% {
     transform: translateX(6px);
+    opacity: 1;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 0;
   }
 }
 .slots .ph {
@@ -551,6 +572,10 @@ button:disabled {
   opacity: 0.3;
   pointer-events: none;
   transform: none;
+}
+.chip:disabled:not(.used) {
+  opacity: 0.5;
+  cursor: not-allowed;
 }
 .hint {
   color: var(--dim);

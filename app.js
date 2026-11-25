@@ -21,7 +21,7 @@ const store = {
   get(k, d) { try { const v = localStorage.getItem(k); return v == null ? d : JSON.parse(v); } catch { return d; } },
   set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch { /* private mode */ } },
 };
-const settings = Object.assign({ blurFin: false, assemble: false, sound: true }, store.get('hb_settings', {}));
+const settings = Object.assign({ blurFin: false, assemble: true, sound: true }, store.get('hb_settings', {}));
 const saveSettings = () => store.set('hb_settings', settings);
 
 // ---------- audio ----------
@@ -63,7 +63,7 @@ const S = {
   completed: new Set(),
   missed: new Set(),
   vocab: [],
-  bank: [], built: [], hint: false, solvedByBuild: false, shake: false,
+  bank: [], built: [], hint: false, solvedByBuild: false,
 };
 
 async function load() {
@@ -100,7 +100,7 @@ function startLesson(lesson) {
 }
 
 function enterStep() {
-  S.phase = 'think'; S.hint = false; S.built = []; S.solvedByBuild = false; S.shake = false;
+  S.phase = 'think'; S.hint = false; S.built = []; S.solvedByBuild = false;
   const step = S.queue[S.i];
   if (step?.type === 'prompt') {
     const answer = step.words.map(w => w.fin);
@@ -260,30 +260,33 @@ function reveal(step, byBuild) {
   play(step);
 }
 
+function checkBuild(step, slotsInner) {
+  const answer = step.words.map(w => w.fin);
+  const got = S.built.map(k => S.bank.find(b => b.k === k).fin);
+  if (got.join() === answer.join()) { reveal(step, true); return; }
+  slotsInner.classList.add('wrong');
+  slotsInner.addEventListener('animationend', () => { S.built = []; render(); }, { once: true });
+}
+
 function builder(step) {
   const answer = step.words.map(w => w.fin);
-  const slots = h('div', { class: 'slots' + (S.shake ? ' shake' : '') },
+  const full = S.built.length === answer.length;
+  const slotsInner = h('div', { class: 'slots-inner' },
     S.built.length ? S.built.map(k => {
       const w = S.bank.find(b => b.k === k);
       return h('button', { class: 'chip', onclick: () => { S.built = S.built.filter(x => x !== k); render(); } },
         h('span', { class: 'f', lang: 'fa' }, w.fa), h('span', { class: 't' }, w.fin));
     }) : h('span', { class: 'ph' }, 'Tap the blocks in order…'));
+  const slots = h('div', { class: 'slots' }, slotsInner);
   const bank = h('div', { class: 'bank' }, S.bank.map(w =>
     h('button', {
       class: 'chip' + (S.built.includes(w.k) ? ' used' : ''),
-      onclick: () => {
-        S.built.push(w.k);
-        if (S.built.length === answer.length) {
-          const got = S.built.map(k => S.bank.find(b => b.k === k).fin);
-          if (got.join() === answer.join()) { reveal(step, true); return; }
-          S.shake = true; render(); S.built = []; S.shake = false;
-          setTimeout(render, 380);
-          return;
-        }
-        render();
-      },
+      disabled: S.built.includes(w.k) || full,
+      onclick: () => { S.built.push(w.k); render(); },
     }, h('span', { class: 'f', lang: 'fa' }, w.fa), h('span', { class: 't' }, w.fin))));
-  return h('div', {}, slots, bank);
+  return h('div', {}, slots, bank,
+    full ? h('div', { class: 'actions' }, h('span', { class: 'grow' }),
+      h('button', { class: 'primary btn-balanced', onclick: () => checkBuild(step, slotsInner) }, 'Check')) : null);
 }
 
 function promptView(step) {
@@ -296,7 +299,7 @@ function promptView(step) {
     else card.append(h('p', { class: 'hint' }, 'Say it out loud, then reveal.'));
     if (step.hint) card.append(S.hint ? h('p', { class: 'hint' }, '💡 ' + step.hint) : h('button', { class: 'ghost', onclick: () => { S.hint = true; render(); } }, 'Hint'));
     card.append(h('div', { class: 'actions' }, h('span', { class: 'grow' }),
-      h('button', { class: 'primary', onclick: () => reveal(step, false) }, 'Reveal')));
+      h('button', { class: 'primary btn-balanced', onclick: () => reveal(step, false) }, 'Reveal')));
   } else {
     if (S.solvedByBuild) card.append(h('p', { class: 'ok center' }, '✓ Built it'));
     card.append(
