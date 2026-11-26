@@ -1,5 +1,7 @@
 // Harf Bezan: say it first, then reveal. No build step; serve this folder statically.
 
+import { recordResult, dueWords, dueCount } from './srs.js';
+
 const app = document.getElementById('app');
 
 const h = (tag, attrs = {}, ...kids) => {
@@ -30,23 +32,25 @@ let audioMissing = false;
 
 function stopAudio() { if (current) { current.pause(); current = null; } window.speechSynthesis?.cancel(); }
 
+function speak(step) {
+  const voices = window.speechSynthesis?.getVoices?.() || [];
+  if (voices.some(v => v.lang?.toLowerCase().startsWith('fa'))) {
+    const u = new SpeechSynthesisUtterance(step.fa);
+    u.lang = 'fa-IR';
+    speechSynthesis.speak(u);
+  } else if (!audioMissing) {
+    audioMissing = true;
+    render();
+  }
+}
+
 function play(step) {
-  if (!settings.sound || !step?.audio) return;
+  if (!settings.sound) return;
+  if (!step?.audio) { speak(step); return; }
   stopAudio();
   const a = new Audio(`audio/${step.audio}.mp3`);
   current = a;
-  const fallback = () => {
-    if (current !== a) return;
-    const voices = window.speechSynthesis?.getVoices?.() || [];
-    if (voices.some(v => v.lang?.toLowerCase().startsWith('fa'))) {
-      const u = new SpeechSynthesisUtterance(step.fa);
-      u.lang = 'fa-IR';
-      speechSynthesis.speak(u);
-    } else if (!audioMissing) {
-      audioMissing = true;
-      render();
-    }
-  };
+  const fallback = () => { if (current === a) speak(step); };
   a.addEventListener('error', fallback, { once: true });
   a.play().catch(() => { /* autoplay blocked or file missing: error handler covers missing */ });
 }
@@ -140,7 +144,45 @@ function rate(step, good) {
     S.missed.add(step.id);
     if (!step.retry) S.queue.push({ ...step, retry: true });
   }
+  step.words.forEach(w => recordResult(w.fin, good));
   next();
+}
+
+// Every distinct word across every lesson, deduped by `fin` - the pool
+// spaced repetition draws its review queue from.
+function allVocab() {
+  const seen = new Map();
+  for (const l of S.lessons) {
+    for (const s of l.steps) {
+      const words = s.type === 'review' ? s.items.flatMap(it => it.words || []) : (s.words || []);
+      for (const w of words) seen.set(w.fin, w);
+    }
+  }
+  return [...seen.values()];
+}
+
+function startReview() {
+  const words = allVocab();
+  const due = new Set(dueWords(words.map(w => w.fin)));
+  const reviewWords = words.filter(w => due.has(w.fin));
+  S.lesson = { id: 'review', title: 'Review', goal: 'Words you got wrong before, due for another look.' };
+  S.queue = reviewWords.map(w => ({
+    type: 'prompt',
+    id: `review-${w.fin}`,
+    en: w.parts.filter(p => p.gloss).map(p => p.gloss).join(' + ') || 'Review this word',
+    fa: w.fa,
+    fin: w.fin,
+    words: [w],
+  }));
+  S.total = S.queue.length;
+  S.completed = new Set();
+  S.missed = new Set();
+  S.vocab = reviewWords;
+  S.i = 0;
+  S.view = 'step';
+  enterStep();
+  render();
+  autoplayIfTeach();
 }
 
 // ---------- views ----------
@@ -228,9 +270,15 @@ function homeView() {
   setActive(initialIndex);
   queueMicrotask(() => goTo(initialIndex, false));
 
+  const due = dueCount(allVocab().map(w => w.fin));
+
   return h('div', {},
     h('div', { class: 'brand' }, h('h1', {}, 'Harf Bezan'), h('span', { class: 'fa', lang: 'fa' }, 'حرف بزن')),
     h('p', { class: 'tag' }, 'Speak colloquial Persian from the first minute. Say it out loud first, then check.'),
+    due > 0 ? h('div', { class: 'card' },
+      h('div', { class: 'label' }, 'Review'),
+      h('p', { class: 'goal' }, `${due} word${due === 1 ? '' : 's'} due for another look.`),
+      h('button', { class: 'primary', onclick: startReview }, 'Review now')) : null,
     track,
     h('div', { class: 'carousel-nav' }, prevBtn, h('div', { class: 'dots' }, dots), nextBtn),
     h('div', { class: 'card' }, h('div', { class: 'label' }, 'Colour key'), legend(), h('div', { style: 'height:14px' }), settingsBar()));
